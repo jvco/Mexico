@@ -1,0 +1,842 @@
+# Tweets contents in Spanish (including duplicate) with manual annotation reference
+ ==============================
+## Contents
+10	L'équipe d'AMLO sont étrangers avec papiers de Touristes cela est un délit pour la Constitution du pays.  #ElPejeHaceTurismoElectoral	NEGATIVE	NEGATIVE	Competence
+100	Connais-tu à Beatriz Gutiérrez Müller ? http: // t.co/34U9WYh5 par @youtube une femme élevée et préparée pour être une dame vivante promet amlo	POSITIVE	NEUTRAL	Personne
+1001	"RT @Morf0: Se quejan de que AMLO hable ""lento"". Ahí están peña o chepina, que hablan rápido y a lo pendejo. De nada."	POSITIVE		
+1003	RT @ags_09: AMLO va imprimir dinero para financiar la impresión de billetes	NEGATIVE		
+1005	Ya me aburrí... AMLO, ¿A qué hora las fotos al revés?	NEGATIVO		
+1007	RT @kdartigues: Increible. Ni un solo cuestionamiento de AMLO a EPN?	NEGATIVE		
+1009	O sea, copiando las propuestas de AMLO.	POSITIVE		
+1011	RT @codeblade2: Reto a los candidatos a decir el nombre de su gabinete, #AMLO es el único preocupado por armar un equipo para atacar los problemas del país	POSITIVE		
+1013	RT @goliveros: Amlo trae su gabinete de juarez-algunos de los de su gabinete también lo fueron en el de juarez.	POSITIVE		
+1015	@JosePablo_Z AMLO presentando el gabinete con el que se va a ir a la chingada. y a un bonito asilo	NEGATIVE		
+1017	RT @JennIslas: AMLO no tiene jóvenes en su gabinete sólo los usa para golpear, que pena @lopezobrador_  #AMLOladesgraciadeMéxico #realidadAMLO	NEGATIVE		
+1019	De navidad le voy a dar un abecedario a AMLO para que vea que la letra D si existe.	NEGATIVE		
+102	AMLO et les enquêtes @josefinavm @rgilzuarth @gustavomadero http: // t.co/LFC3z0up	NEUTRAL		
+1021	RT @MetaFicticio: AMLO lanza un golpe difícil de esquivar: es el único con gabinete.	POSITIVE		
+1023	AMLO anuncia su gabinete. Gente de primera. Juan Ramón de la Fuente, Elenita Poniatovska, Drucker, Ebrard, Gongora, Torruco.. #2oDebate	POSITIVE		
+1025	RT @jose_osorio: Si los gabinetes fueran equipos de futbol, AMLO nos acaba de presentar al Barcelona, objetivamente se los digo.	POSITIVE		
+1027	#Debate2012 no mamen! AMLO se pone a todas sus comadres en el gabinete	NEGATIVE		
+1029	AMLO menciona a Juan Ramón de la Fuente como secretario de educación. Es el antiguo rector de la UNAM e hizo muchas cosas buenas por ella.	POSITIVE		
+1031	RT @jovenesamlo: Una chingónada de gabinete el de AMLO !! Ya se chingó a todos! Con todo respeto.	POSITIVE		
+1033	"RT @Yero_: Pues no se si AMLO sea  el mejor candidato pero su ""gabinete"" suena mejor que  cualquier cosa que se dijo en el debate."	POSITIVE		
+1035	RT @manuel8axMX: Haiga sido como haiga sido AMLO tendría el mejor gabinete para México desde hace mucho, mucho tiempo #Debate2012	POSITIVE		
+1037	"RT @sallesino: ""Finish them"" *AMLO menciona a su gabinete*. ""FATALITY"". Que le Paso en La uña a AMLO??? #mexico #saltillo @werevertumorro por que AMLO esta sudando como cerdo? RT"	NEGATIVE		
+1039	Y como diria @MadreModerna amlo usa angel face! Jajaja	NEGATIVE		
+104	RT @dontriana : Carte ouverte au peuple du Mexique pour maintenir le calme le 1 juillet 2012 http: // t.co/lrREVCf9 #AMLO	POSITIVE	NEGATIVE	Entite
+1041	14 años para pasar tu carrera en la UNAM. Promedio de 7.7... Por favor... Aunque la mona se vista de seda, mona se queda, AMLO.	NEGATIVE		
+1043	RT @DonBnitoJuarez: Aquí la Elenita Poniatowska de AMLO http://t.co/VoKurbOp	POSITIVE		
+1045	AMLO AMLO AMLO AMLO AMLO AMLO AMLO AMLO AMLO AMLO AMLO AMLO AMLO AMLO AMLO AMLO AMLO AMLO AMLO AMLO AMLO AMLO AMLO AMLO AMLOAMLO AMLO AMLO-	POSITIVE		
+1047	Not that anyone cares pero voy con AMLO. Antes de criticar informense y usen el sentido común.	POSITIVE		
+1049	Casi me convence el AMLO	NEUTRAL		
+1051	amlo te quedan 5 seg... chin te cortaron	NEGATIVE		
+1053	#Amlo la neta hoy el peor #Amloelpeor de todos	NEGATIVE		
+1055	AMLO te faltaron el tata y chabelo en tu gabinete #ElPejeAburreHastaALosPejezombies	NEGATIVE		
+1057	AMLO habla como si tuviera todo le tiempo del mundo	NEGATIVE		
+1059	En lo que sumas se te acaba el tiempo, echale ganas amlo #debate2012	POSITIVE		
+106	RT @Tu_pp_grillo : Un applaudissement à la maman d'AMLO qu'en voyant moche et idiot ne l'a pas jeté  aux ordures et des huées pour ne pas l'envoyer au psychiatrique	NEGATIVE		
+1061	Ahuevo AMLO, tu si eres el mero mero #Debate2012	POSITIVE		
+1063	AMLO tiene 58 segundos para concluir. AMLO: hay....que.....combatir......la.......corru.... Se le acabo el tiempo!!! Siguiente bloque	NEGATIVE		
+1065	@lopezobrador_  Les amando la bamba de @AMLO para quienes la quieran rolar, #MarchaAntiEPN	POSITIVE		
+1067	"RT""1.Naces 2.Eres AMLO 3. Creces 4. No eres presidente. 5. No eres presidente. 6. No eres presidente. 7. No eres presidente. 8. Mueres.""JAJA"	NEGATIVE		
+1069	@AristeguiOnline #BoicotTelevisa hasta que quiten el spot de AMLO RT ayuden aque sea trending topic @anonopshispano @La_War	POSITIVE		
+1071	Dime con quien andas y te diré quien eres...Comparen con quien se junta #AMLO y...@EPN #NiUnVotoalPRI http://t.co/OESle7mi	POSITIVE		
+1073	RT @Claudia_ag: El cierre de #AMLO en #Aguascalientes fue fuera de serie, jamás se había visto tanta expectación y algarabía y menos a 35ºC en Lunes 12pm	POSITIVE		
+1075	RT @emeequis: #AMLO cerrará su campaña el 27 de junio con una marcha del ‚àövÖngel de la Independencia al Zócalo del DF http://t.co/1klJ0oi5	NEUTRAL		
+1077	@olehmannf a cualquier cosa llama usted trabajo... Es usted un cínico pero que AMLO...	NEGATIVE		
+1079	#AlPejeNoLeSalenLasCuentas AMlO no tiene ni la más mínima idea como deben funcionar las finanzas públicas. 	NEGATIVE		
+108	Et quelqu'un enverra-t-il dans le visage d'AMLO le jeudi la mesquinerie de Gonzalo Yáñez ?	NEUTRAL	NEUTRAL	Entite
+1081	RT @relativista: @monerohernandez acabo de ver el spot del pan en el 22 donde usan el audio descontextualizado de #amlo. No que lo habían prohibido?	NEUTRAL		
+1083	¡AMLO 2012 le peje a quien le peje!	POSITIVE		
+1085	@AristeguiOnline: Desobedecen al IFE, promocional contra AMLO sigue al aire http://t.co/WY38O0Es // qué esperan @IFEMexico?	NEGATIVE		
+1087	RT @AMLO_si: AMLO, cierra en San Luis Potosí: http://t.co/9gzeqJ9c	NEUTRAL		
+1089	RT @AristeguiOnline: Desobedecen al IFE, promocional contra AMLO sigue al aire http://t.co/kEEhosEA	NEGATIVE		
+1091	RT @epigmenioibarra: Escuchando el spot en el que el PAN manipula descaradamente audio de AMLO. Que irresponsabilidad e ineficiencia del @IFEMexico.	POSITIVE		
+1093	"Si chepina agrede esta bien y si amlo no lo hace, está mal; quién putas los entiende."	NEUTRAL		
+1095	RT @CTM_Jalisco: #AlPejeNoLeSalenLasCuentas AMLO con sus -propios datos- va a llevar a México a una catástrofe económica. 	NEGATIVE		
+1097	RT @aze1a: #BoycottTelevisa hasta que quiten el spot de AMLO RT ayuden aque sea trending topic @anonopshispano @La_War @jovenesamlo	POSITIVE		
+1099	CNN USA josefina se queda en 3 lugar  a 3 puntos abajo  de AMLO @EJLodeNa @voceropolitico	POSITIVE		
+110	RT @PresuntoC : Selon la rubrique Templo Mayor de Reforma, le PRI a une enquête qui met AMLO à un chiffre d'EPN. http: // t.co/usCsdOXw	NEGATIVE	NEGATIVE	Bilan
+1101	RT @abogad031: @laura_zr @05kxr Hicieron sus cuentas para que si hablas algo mal de amlo te dan SPAM, te bloquean, denuncian etc etc.	NEGATIVE		
+1103	RT @Don_Ferrer: Ya hasta Peña quiere votar por AMLO.	NEUTRAL		
+1105	Si el gob fed prescindiera de todos sus servidores públicos, sueldos y prestaciones ahorraria 264,000millones al año amlo hablo d 300, como?	NEGATIVE		
+1107	RT @mel_viva: RT @AristeguiOnline Desobedecen al IFE, promocional contra AMLO sigue al aire http://t.co/D55LCGnM << #AltoALaGuerraSucia	NEGATIVE		
+1109	Reúne #AMLO cerca de 11 mil personas en Fundadores San Luis Potosí, #SLP http://t.co/80OsvtuE vía @planoinforma	POSITIVE		
+1111	@el_pais se parece tanto a ti #amlo que no puedes engañarnos jajaja venezuela, bolivia y cuban seran nuestros nuevos socios con #amlo	NEGATIVE		
+1113	RT @AristeguiOnline: Desobedecen al IFE, promocional contra AMLO sigue al aire http://t.co/kEEhosEA	NEGATIVE		
+1115	RT @epigmenioibarra: Ha permitido @IFEMexico que mentiras del PAN vs AMLO, denunciadas y comprobadas en los medios, salgan al aire en radio y TV. Que indignante	POSITIVE		
+1117	El documento de AMLO parece muy real :S tu como ves? @XochitlGalvez http://t.co/chOoeWua	POSITIVE		
+1119	POR SI SE LES OLVIDA , AUNKE EL KE ES DE CONVICCI‚àöv¨N FIRME NO LO MUEVE NADIE Spot de AMLO, No tengas miedo: http://t.co/JgEJlDSe vía @youtube	POSITIVE		
+112	RT @DeliaSiller : le Conseiller qui a demandé 6 mdd pour AMLO trompe à la Migration :: La Razón :: le 9 juin 2012 http: // t.co/qisPwbVp #ElPejeHaceTurismoElectoral	NEGATIVE	NEGATIVE	Ethique
+1121	FOTOS DE AMLO en San Luis Potosí, 11 de Junio 2012: FOTOS DE AMLO en San Luis Potosí 11 de Junio 2012	NEUTRAL		
+1123	"@epigmenioibarra dice AMLO ""el ESTADO SOY YO""... a perdon lo dijo el rey sol"	NEGATIVE		
+1125	Cosas que se encuentra uno en la red, trayectoria de AMLO y actores principales http://t.co/qPZI4N7n	POSITIVE		
+1127	Gané el debate, sin duda: AMLO - El Universal http://t.co/flUJJlo7 #50CancionesPerfectas #MeEmputaQue #ManceraResponde	POSITIVE		
+1129	RT @epigmenioibarra: Escuchando el spot en el que el PAN manipula descaradamente audio de AMLO. Que irresponsabilidad e ineficiencia del @IFEMexico.	POSITIVE		
+1131	"Dejan #YoSoy132; arman otra agrupación: ...se dejó asaltar por la izquierda para actuar a favor del candidato #AMLO http://t.co/6Sx1aFD8"	NEUTRAL		
+1133	abajo se hace el amlo, en la pista se caga	NEGATIVE		
+1135	RT @AristeguiOnline: Desobedecen al IFE, promocional contra AMLO sigue al aire http://t.co/kEEhosEA	NEGATIVE		
+1137	llamaron para una encuesta: sabia usted que AMLO incendio unos pozos petroleros? sabia usted que pidio dinero para	NEGATIVE		
+1139	RT @Rev_delasIDEAS: #AMLO convoca a megamarcha para cerrar su campaña el 27 de junio del ‚àövÖngel de la Independencia al Zócalo http://t.co/obGnQoA5	POSITIVE		
+114	RT @arg8810 : @Tu_pp_grillo c'est claire! Un amlover m'a touché, celui qui se vantait de qu'AMLO avait aidé avec mille choses, et j'ai dit coff coff un budget fédéral!	NEGATIVE	NEGATIVE	Entite
+1141	La Bamba para AMLO via @arikuki https://t.co/yJ2licDi!	POSITIVE	
+1143	RT @El_Universal_Mx: Desde Hitler usan miedo para evitar el cambio: #AMLO http://t.co/tguVOf3A	NEGATIVE		
+1145	RT @maniguis2: #AlPejeNoLeSalenLasCuentas De donde saca las encuestas AMLO que dice que las suyas son las verdaderas? Piensa que tiene la verdad absoluta?	NEGATIVE		
+1147	RT @NetasMx: AMLO habla tan lento... que el traductor de sordomudos parece que está haciendo Tai Chi..  #Debate2012  #MeAflojoComoAMLO	NEGATIVE		
+1149	RT @juan_rey_: Usted nos miente (#AMLO) o piensa endeudar al país #Josefinaeslaopcion / ASÍ O +CHINGONA? #votoútilporjosefina @JPsosa @Jan_Herzog @ileanau	NEGATIVE		
+1151	-Sí salen las cuentas-: AMLO http://t.co/7NCQQK13	POSITIVE		
+1153	RT @elensal: #AMLO: mis cuentas están bien, vamos a ahorrar 300 mil MDP con un programa de austeridad http://t.co/yIyBZOaR  #SanLuisPotosi #Mtyfollow	POSITIVE		
+1155	Oye @monerohernandez ¿conoces a Pablo Hiriart? Publicaron un art suyo horroroso contra AMLO. Tienen miedo	NEUTRAL		
+1157	RT @mel_viva: RT @AristeguiOnline Desobedecen al IFE, promocional contra AMLO sigue al aire http://t.co/D55LCGnM << #AltoALaGuerraSucia	NEGATIVE		
+1159	@juanjavier27 CURVAS SE ESTÁN INTERSECTANDO PARA SEPARARSE NUEVAMENTE PERO CON AMLO SÓLO EN LA PUNTA.CUÁNTO? LO QUE LOS INDECISO	NEUTRAL		
+116	@Pirrusberry j'espère que tu n'ailles pas pelatso à voter ce 1 juillet par @EPN non pour la marque laissée par une maladie déshonnête de #amlo	NEGATIVE	POSITIVE	Ethique
+1161	Las asociaciones civiles que financian a @AMLO no están registradas como donantes ante el SAT por lo ke no son fiscalizables	NEGATIVE		
+1163	PrefieroViejito naco como le llaman a #AMLO @MoReNa_jovenes a que #EPN page su ropa d la boutique más cara del mundo con recursos nacionales	POSITIVE		
+1165	RT @bichibichi85: Si gana AMLO, dejo de fumar!!!	NEGATIVE		
+1167	@AMLO_si estoy contigo xq creo q no puede haber gobierno rico con pueblo pobre	POSITIVE		
+1169	@JesusMartinRed porque no invitas a AMLO a tu programa??? como lo has hecho en estos momentos con  Gabriel Quadri	NEUTRAL		
+1171	@JLGalindo1: #Elecciones2012 #AMLO descarta actuar contra tweet de Calderon http://t.co/8ZHSTrml	NEGATIVE		
+1173	@mhonividente AMLO tiene 58 años sumados son 13.. coincidencia?	NEUTRAL		
+1175	-Felipe:(casi le dijo a #AMLO)Sus numeros no me cuadran -AMLO y la gente responde: Pues la elección del 2006 no me cuadro pres.#FECAL #2012	NEGATIVE		
+1177	@AristeguiOnline Pero no fuera AMLO, por que ya seria todo un engendro del mal !!! el @IFEMexico Y su #DobleMoral 	NEGATIVE		
+1179	RT @AristeguiOnline: Desobedecen al IFE, promocional contra AMLO sigue al aire http://t.co/kEEhosEA	NEGATIVE		
+118	RT @CesarSilerio : Le stratège d'AMLO, qui a demandé d'une forme illégale 6 millions de dollars, est au Mexique commeturiste #ElPejeHaceTurismoElectoral	NEGATIVE	NEUTRAL	Entite
+1181	Vía @ursulapruneda y @artistasconAMLO	DELETE		
+1183	JosefinaVM:[+0.050/-0.000/n:20] AMLO:[+0.031/-0.012/n:163] g_quadri:[+0.000/-0.000/n:5] EPN:[+0.029/-0.000/n:172]	NEGATIVE		
+1185	RT @fuerzapolitica: La forma que tiene #AMLO de actuar, en su desesperación empieza a utilizar sus tácticas acostumbradas de siempre RT	NEGATIVE		
+1187	RT @emeequis: Grupos del PRI golpean a simpatizantes de #AMLO después del debate - VIDEO http://t.co/rKiCjMXl	NEGATIVE		
+1189	Lo triste es saber q al final 1 de estos 4 va a dirigir al país... #Debate2012 #Elecciones2012 #EPN #JVM #AMLO #Quadri http://t.co/rg7t5pvc	NEGATIVE		
+1191	#AlPejeNoLeSalenLasCuentas AMLO confirma que NO tiene la más mínima idea de cómo se integra el Presupuesto de Egresos de la Federación. 	NEGATIVE		
+1193	RT @excentricoser: Sin ser AMLO, se me vienen encima. LITERAL :3	NEGATIVE		
+1195	RT @AristeguiOnline: Desobedecen al IFE, promocional contra AMLO sigue al aire http://t.co/kEEhosEA	NEGATIVE		
+1197	RT @aze1a: #BoycottTelevisa hasta que quiten el spot de AMLO RT ayuden aque sea trending topic @anonopshispano @La_War @jovenesamlo	POSITIVE		
+1199	#AlPejeNoLeSalenLasCuentas AMLO confirma que NO tiene la más mínima idea de cómo se integra el Presupuesto de Egresos de la Federación. 	NEGATIVE		
+12	@YoVotoJosefina : Le PRI a 2 manières de revenir : avec EPN et avec AMLO, #YoVotoJosefina / #YoVotoJosefina #JosefinaPresidenta	POSITIVE	NEGATIVE	Projet
+120	@Paul_Pellon : @alexavila0 qu'est-ce que cela a à voir avec AMLO ? ? Je le regrette, c'est perdre le temps, tu dis seulement des choses iditoes et exhibes une ignorance et une sottise	NEUTRAL	NEGATIVE	Injonction
+1201	"RT @Eriol_Kent: ""@AristeguiOnline: Desobedecen al IFE, promocional contra AMLO sigue al aire http://t.co/mJAjHTCy"" @leonardovaldesz @IFEmexico Respondan!!!"	NEGATIVE		
+1203	RT @Enrique_Aquino: #MeEmputaQue las propuestas de #AMLO no tienen sustento, hasta Calderón lo desmiente #AlPejeNoLeSalenLasCuentas http://t.co/5i0lRGQ0	NEGATIVE		
+1205	RT @22_4: @lopezdoriga1 quiero hacerle notar que a #epn lo pone como candidato a la presidencia y a #amlo es solo #amlo	NEGATIVE		
+1207	RT @Masiosare: Hay días que me gustaría que ganara AMLO por el dulce sabor del -se los dijimos-. Luego me acuerdo que nos carga a todos y se me olvida	NEGATIVE		
+1209	RT @AMLO_si: San Luis Potosí también quiere El Cambio Verdadero #AMLO2012 @lopezobrador_ @AMLO_si @CoordAMLO http://t.co/FsSk2SnO via @30JR31	POSITIVE		
+1211	RT:La BAMBA para #AMLO .	POSITIVE		
+1213	RT @sallesino: Así como el ganador del primer debate fue Quadri, hay que aceptar que, independientemente de la preferencia, este lo ganó AMLO.	NEUTRAL		
+1215	RT @Dhali_Kun: Según la encuesta teléfonica de Reporte Indigo, en Monterrey, Gdjara y México, AMLO ganó el debate y sorprendio gratamente al 32%	POSITIVE		
+1217	RT @ne__grita: No se supone que retirarían el spot donde se difama a AMLO? @leonardovaldesz	NEUTRAL		
+1219	Amandititita / SinEmbargoMX / Por qué apoyo a AMLO: http://t.co/7B0Zemdp vía @youtube	POSITIVE		
+122	#ElPejeHaceTurismoElectoral vaux-moi qu'AMLO disent je suis avec toi et tu seras président!!	NEGATIVE	POSITIVE	Entite
+1221	RT @jovenesamlo: -@jmcotav: De acuerdo a UNO.TV, canal de Carlos Slim, #AMLO ganó el debate. #HoyGanamosConAMLO La Minerva  http://t.co/yJv26kmQ-/RT RT RT	NEUTRAL		
+1223	@AMLO no basta buena fe en políticas, no vivimos en el país de las maravillas!	NEGATIVE		
+1225	#AlPejeNoLeSalenLasCuentas otra vez la cadena de mentiras de AMLO. #AlPejeNoLeSalenLasCuentas otra vez la cadena de mentiras de AMLO. 	NEGATIVE		
+1227	RT @ChistesActuales: #HoyGanamosConAMLO - HAZ patria de dale RT si piensas que AMLO sera el NUEVO PRESIDENTE DE MEXICO - URGE RT	POSITIVE		
+1229	RT @werevertumorro: 1.- AMLO 2.- QUADRI 3.-EPN 4.-JVM <--- sondeo en facebook: http://t.co/aoeitVtz	POSITIVE		
+1231	RT @revistaproceso: #AMLO convoca a megamarcha para cerrar su campaña  http://t.co/ysrKaZmy	POSITIVE		
+1233	Yo no puedo ser candidato: AMLO http://t.co/UrmxiMjd via @youtube	POSITIVE		
+1235	acabaron su turno los #Peñabots, por fin no hay TT de #EPN sr. @Enrique_Aquino pongalos a chambear!! k los de JVM y d AMLO no dan risa	NEUTRAL		
+1237	RT @Mov_Ciudadano: AMLO gana segundo debate : @Mariadelasheras  http://t.co/knGEl4RY | vía @aristeguionline	POSITIVE		
+1239	UNA RAZÓN MAS PARA VOTAR POR AMLO!! http://t.co/IKtD9JrC vía @youtube	POSITIVE		
+124	RT @Excelsior_Mex : #ColorElectoral Rojas Gutiérrez accuse à AMLO (@lopezobrador _) de polariser la société mexicaine. http: // t.co/bGs2DQ23	NEGATIVE	NEGATIVE	Ethique
+1241	RT @lbasaguren: Si el gob fed prescindiera de todos sus servidores públicos, sueldos y prestaciones ahorraria 264,000millones al año amlo hablo d 300, como?	NEGATIVE		
+1243	RT @votoporamlo: Ahí estan los numeros @JosefinaVM y @g_quadri a ustedes que no les cuadraban las cifras de AMLO, ccp @FelipeCalderon http://t.co/pJEZmDbD	POSITIVE		
+1245	RT @AMLO_si: AMLO, cierra en San Luis Potosí: http://t.co/9gzeqJ9c	NEUTRAL		
+1247	Sin lugar a dudas @lopezobrador_ se alzó como triunfador: Movimiento Ciudadano http://t.co/GLANk6TH	POSITIVE		
+1249	RT @ZapataMty: Desobedecen al IFE, promocional contra AMLO sigue al aire http://t.co/a33M2fxN /via @AristeguiOnline	NEGATIVE		
+1251	@AMLO_si Si voto por las 5 es votar por mi entonces estoy siempre con @lopezobrador_	NEGATIVE		
+1253	RT @AccionNacional: Boletín: Exhibe PAN incongruencias y omisiones de AMLO y Peña Nieto:  http://t.co/mWpR9CGd	NEGATIVE		
+1255	RT @revistaproceso: #AMLO convoca a megamarcha para cerrar su campaña  http://t.co/ysrKaZmy	POSITIVE		
+1257	RT @kikesma: @mariodicostanzo demuestra cómo se ahorrarían los 300 mmdp que propone #AMLO  http://t.co/OVjwbm1L  #SanLuisConAMLO	POSITIVE		
+1259	Por los que las cifras no cuadran chequen esta noticia http://t.co/zFcAn6Kk	NEUTRAL		
+126	@Excelsior_Mex FACILE qui demandent à AMLO, il doit savoir tout à propos du taux de change puisqu'il sait tout à propos des dollars	POSITIVE	NEUTRAL	Entite
+1261	RT @AccionNacional: Boletín: Exhibe PAN incongruencias y omisiones de AMLO y Peña Nieto:  http://t.co/mWpR9CGd	NEGATIVE		
+1263	RT @robertovaldeza: AMLO esta enfermo de poder #AlPejeNoLeSalenLasCuentas	NEGATIVE		
+1265	RT @KaroCD: Los números de AMLO son tan falsos como un billete de 3 pesos #AlPejeNoLeSalenLasCuentas http://t.co/jSLNgu2N	NEGATIVE		
+1267	RT @JoseCardenas1: El colectivo #yo soy 132 se reúne en la Ibero- prepara el debate del 19... Jóvenes abandonan el movimiento-acusan desviación a favor de AMLO	NEUTRAL		
+1269	RT @QueAlberto: Así quedaron los resultados del #Debate2012 según Televisa: AMLO: 36%, JVM: 24%, Quadri: 20%, EPN: 120%.	NEGATIVE		
+1271	"RT @hanabatah: A ver si ya dejan de burlarse de AMLO, que no ven que ya está ""aflojadito en terracería""???  #AlPejeNoLeSalenLasCuentas"	NEUTRAL		
+1273	Desobedecen al IFE, espot contra AMLO sigue al aire - Aristegui Noticias http://t.co/mf7Ancm9 vía @aristeguionline	NEGATIVE		
+1275	RT @miketorruco: Si en 20 días VOTAS por AMLO dale RT http://t.co/x9IhwF0j	POSITIVE		
+1277	RT @JoseCardenas1: El colectivo #yo soy 132 se reúne en la Ibero- prepara el debate del 19... Jóvenes abandonan el movimiento-acusan desviación a favor de AMLO	NEUTRAL		
+1279	"RT @SinEmbargoTR: -No te dejes engañar-, pide AMLO en un nuevo spot; -se les está cayendo Peña y han iniciado la ‚ÄövÑv=guerra sucia‚ÄövÑv¥- http://t.co/fpNAt9l8"	POSITIVE		
+128	@Excelsior_Mex: l'élection présidentielle dois respecter et être honoré http: // t.co/vSF4BfJF! Je crois qu'AMLO va marcher d'un criard de nouveau.	NEGATIVE	NEUTRAL	Personne
+1281	RT @kpow: AMLO convoca a megamarcha para cerrar su campaña: http://t.co/wVRguJy4 >DEMOSTREMOS DE QUE LADO ESTA EL PUEBLO LIBRE Y CONSCIENTE #YOCONAMLO	POSITIVE		
+1283	RT @RobertoSosaMtz: -@claudianpliego: Cerrará AMLO campaña con marcha del Ángel al Zócalo http://t.co/90MzpDEF  27 de Junio-	NEUTRAL		
+1285	RT @jovenesamlo: AMLO no atacó, marcó diferencias y presentó propuesta de gabinete    - Aristegui Noticias http://t.co/WWzoVWGI	POSITIVE		
+1287	RT @Dhali_Kun: En horabuena por AMLO al que he elegido para otorgarle mi voto útil para detener a la aplanadora PRIista.	POSITIVE		
+1289	AMLO responde con nuevos spots a -Guerra Sucia- http://t.co/79TvXGnY #50CancionesPerfectas #MeEmputaQue #ManceraResponde	POSITIVE		
+1291	@Juaco_org de ciudadanos, AMLO es más autoritario con todo respeto, consultar medios, historia, sin prejuicios	POSITIVE		
+1293	@MauCeballos71 @JosefinaVM Ya te pareces a AMLO. Cuando sí hubo fraude fue en 1988 y hoy AMLO apoya a  Bartlett, priísta autor del fraude	NEGATIVE		
+1295	JosefinaVM:[+0.023/-0.000/n:43] AMLO:[+0.059/-0.030/n:101] g_quadri:[+0.000/-0.000/n:7] EPN:[+0.069/-0.038/n:130]	NEGATIVE		
+1297	RT @EnriMartinez: Turba priísta agrede con saña a jóvenes obradoristas en el D.F.: Documenta MORENAJE IPN video donde se obs... http://t.co/5BS1nmpP #AMLO	NEGATIVE		
+1299	RT @LDGChris: Desobedecen al IFE, espot contra AMLO sigue al aire - Aristegui Noticias http://t.co/nD7Azl6s vía @AristeguiOnline	NEGATIVE		
+130	#ElPejeHaceTurismoElectoral les "problèmes" de #AMLO les trouvent chez les personnes de son autour, le problème de @epn est le même	NEGATIVE	NEGATIVE	Attribut
+1301	RT @NO_PRI_2012: PACTO de Peña Nieto y Amlo para un Mutuo NO ataque en el #DEBATE2012 #EPNyAMLOsonloMismo Dale RT!	POSITIVE		
+1303	Vamos todos a recibir al candidatos@AMLO mañana 12 de Junio 2012, vuelo comercial vamos al Aeropuerto de Mexicali.	POSITIVE		
+1305	RT @esquincakobeh1: Es obvio que el debate de ayer lo ganó #AMLO y este 1ro de Julio, con el respaldo de todos, ganará la presidencia de México	POSITIVE		
+1307	"RT @NEO_BAHAMUTH fracasados como #Calderón que a todo dice ""NO SE PUEDE"" México esta mal. CON AMLO LOGRAREMOS LO QUE PARA EL ES IMPOSIBLE"	POSITIVE		
+1309	-@ManuelGarciaES: Gobierno federal rompe veda y ataca a AMLO http://t.co/M75Kq6ig-	NEGATIVE		
+1311	RT @AMLO_si: AMLO llevó propuestas al debate, su gabinete: http://t.co/Sts4f7DI	POSITIVE		
+1313	#AlPejeNoLeSalenLasCuentas AMLO es una politico mentiroso y sin propuestas concretas	NEGATIVE		
+1315	@andres_casasn PUES EMPIEZA A VOTAR POR AMLO. PORQUE SINO GANA, SE VA A PONER FEO.	POSITIVE		
+1317	@miketorruco: Si en 20 días VOTAS por AMLO dale RT http://t.co/7Fp9b7gK Reconstruir La Nacion	POSITIVE		
+1319	RT @AristeguiOnline: Desobedecen al IFE, promocional contra AMLO sigue al aire http://t.co/kEEhosEA	NEGATIVE		
+132	@Tu_pp_grillo AMLO si près d'être Presidente légitime et si loin d'être Presidente constitutionnel!	NEGATIVE	NEGATIVE	Ethique
+1321	RT @JavierSolorzano: AMLO siguió su estrategia muy bien y tuvo una actitud de enorme respeto a sus adversarios #debate2012	POSITIVE		
+1323	RT @javo_chavez: Putazo en el hocico (otro) de @lopezobrador_ http://t.co/LehU4QS8 votarías por él para presidente cuando bo sabe ni de qué habla? RT Please	NEGATIVE		
+1325	"México: #39;Economía milagro#39;, propuestas de AMLO: Rojas http://t.co/VPnatNMO"	NEGATIVE		
+1327	#Yo Soy132 Acusa #PRI a #AMLO de evitar auditoría con -figuras engañosas- | http://t.co/Ou28Obgn http://t.co/aXTxzmok	NEGATIVE		
+1329	@JorgePalavicine oie xk borrate el tuit donde desia ke loj choco no ablamo como Amlo! Umjujum yo conojco uno bien fresa ke si ablan choco!	NEUTRAL		
+1331	Bamba para @AMLO_NEWS Andres Manuel, http://t.co/FuzDp3xM veeeeeeeeenga!!!!	POSITIVE		
+1333	@CatyMellado @pizzzario es la que propone cosas mas factibles. El AMLO propone cosas imposibles	NEGATIVE		
+1335	LA BAMBA PARA ANDRES MANUEL (AMLO).mp4 http://t.co/u2kV4C0m vía @youtube	POSITIVE		
+1337	RT @JoseCardenas1: El colectivo #yosoy132 se reúne en Ibero para debate del 19. Jóvenes abandonan el movimiento x desviación a favor d AMLO	NEUTRAL		
+1339	amigos del twitter la única opsion es con amlo tenemos que salir a delante yo quiero una república amorosa un voto a AMLO.	POSITIVE		
+134	Je rejpeto, tu rejpestas, nous rejpetamos. #AMLO	POSITIVE		
+1341	@anonopshispano @independenciame ese documento lo presentó ayer en el debate como prueba de que AMLO pagó por espionaje.	NEGATIVE		
+1343	a poco necesita #AMLO de #Ebrard para que siga subiendo su campaña?	NEGATIVE		
+1345	@MiChisteDelDia: -Te AMLO. -Algo no me Quadri-. -¿Fumamos Mota? -No, qué Peña. Alguien más retwittea  esto y les juro abandono twitter.	NEUTRAL		
+1347	Proceso - Ayuntamiento de Xalapa financia guerra sucia contra AMLO http://t.co/ejcOA0lR	NEGATIVE		
+1349	y no es malo por volverse por AMLO sino porque se convirtió en lo que al principio repudio tanto: Politica.	NEGATIVE		
+1351	Yo keria ir a ver a AMLO !	POSITIVE		
+1353	Dice AMLO que las encuestas son un complóh.	NEGATIVE		
+1355	@iraisrs: Pregunta 2.. Si las elecciones fueran hoy.X quien votarían? Todo esto pal reportaje //for AMLO hoy y el dia de las votaciones	POSITIVE		
+1357	Biografía de AMLO: Naces Creces Eres candidato Pierdes Te aflojas Eres candidato Pierdes Te aflojas Eres candidato Pierdes Te aflojas ...	NEGATIVE		
+1359	RT @mollynico: AMLO en el mitin del cierre Estatal, les explica a los potosinos su Proyecto de Nación desde la plaza principal en SLP http://t.co/Aqi5H2vw	POSITIVE		
+136	Quoi peut plus perdre la pauvreté si elle vote pour AMLO. Ils perdent plus s'ils votent pour le PAN @pepepintos	NEUTRAL	NEUTRAL	Positionnement
+1361	RT @emeequis: Si México fuera Twitter, #AMLO ya sería Presidente. Un terreno donde arrasa con los ciber-ejércitos adversarios http://t.co/sLlmgdV6	POSITIVE		
+1363	RT @revistaproceso: Proceso-1858.jpg http://t.co/0Jx2gNH6 #verfollow @AMLO Peña Nieto Y Televisa atrapados en su mentira al pueblo de México	POSITIVE		
+1365	Aqui en #puertovallarta asi nos imajinamos si los candidatos fueran mujer @EPN #AMLO #QUADRI #JVM  http://t.co/9LODFyyy	NEUTRAL		
+1367	Spot de AMLO parodia a adversarios (+Video)  http://t.co/1lOgwoMB	POSITIVE		
+1369	RT @jramirorr: Desobedecen al IFE,espot contra AMLO sigue al aire http://t.co/4x0lTWJf #50CancionesPerfectas #MeEmputaQue #ManceraResponde Mane de la Parra	NEGATIVE		
+1371	AMLO incongruente: http://t.co/3IJ16SFV vía @youtube	NEGATIVE		
+1373	Lo que está en juego es más grande que la redistribución de ingresos: el futuro de la humanidad. Holloway sobre AMLO http://t.co/jywy4RY4	POSITIVE		
+1375	"Si el spot es contra @EPN es ""LIBERTAD DE EXPRESIÓN ""Si es contra #AMLO, es ""GUERRA SUCIA"" @josecardenas1"	NEGATIVE		
+1377	RT @rubengluengas: 4a Encuesta Nacional Independiente. AMLO sigue arriba.: http://t.co/eVh7QyGP vía @youtube	POSITIVE		
+1379	RT @fanidrila: @AMLO_si estoy contigo xq creo q no puede haber gobierno rico con pueblo pobre	POSITIVE		
+138	@AntonioCabrera4 @enrique_aquino SI C'EST LE CAS ALORS AMLO EST MAL BARRÉ, ÉTANT DONNÉ QUE DANS LE PREMIER DÉBAT N'A PAS PU SURPASSER EPN	NEGATIVE	NEUTRAL	Entite
+1381	"RT @ruizhealy: La locura! Un seguidor de AMLO, me grita ""comunicador de mierda"" lanza su bicicleta contra mi coche, arruinando su llanta delantera! Locura!"	POSITIVE		
+1383	¿Quién es la persona más guapa de tu país? - AMLO http://t.co/0STEDMVs	POSITIVE		
+1385	RT @CoordAMLO: Desde San Luis Potosí @AMLO_si http://t.co/Y4JfHJee	NEUTRAL		
+1387	RT @AristeguiOnline: Desobedecen al IFE, promocional contra AMLO sigue al aire http://t.co/kEEhosEA	NEGATIVE		
+1389	"AMLO y Peña no se tocan; JVM trató de subirse al ring http://t.co/s4AqmFdr vía @pajaropolitico"	NEGATIVE		
+1391	-@AristeguiOnline: Desobedecen al IFE, promocional contra AMLO sigue al aire http://t.co/LPmmRm7C-	NEGATIVE		
+1393	Javier Sicilia invita a votar por AMLO...: http://t.co/lonqL4NR vía @youtube	POSITIVE		
+1395	@JosefinaVM NO SEAS COPIONA! ESO LO HA DICHO AMLO EN TODA SU CAMPAvëA!!!!!!!!	POSITIVE		
+1397	#amloleaks #anonymous #copeteleaks AMLO usa base de datos de reemplacamiento para campaña aqui la base completa http://t.co/iy9T9V4H	NEGATIVE		
+1399	@JosefinaVM @SChecoPerez JOSEFINA ERES ARRIBISTA, CHECO TODOS CON AMLO	POSITIVE		
+14	La nette s'ils ne mettent pas de muselière à AMLO d'ici au 1 juillet est très probable que je décide d'annuler mon vote...	POSITIVE	NEUTRAL	Positionnement
+140	Une chaîne circule dans hotmail d'un écrivain dénommé : "Francisco Martin Moreno" est une critique dure à #AMLO : est-il de l'écrivain ?	NEGATIVE	NEGATIVE	Entite
+1401	@Keko_Garcia pues ir recuerda como dice amlo AMOR Y PAZ, LA MODA ES ANDAR DE AMOROSO...........OTRA OPCION, TEQUIERE PRESUMIR SU FELICIDAD A	POSITIVE		
+1403	"RT @jvolpi: El debate lo ganó JVM; luego AMLO. Muy lejos, EPN. Quadri no importa. Insisto: necesitamos una alianza PAN-PRD, lo mejor para el país."	NEGATIVE		
+1405	RT @BRINQUIITOS: RT Si vas a ir al cierre de campaña de AMLO en el ZOCALO RT	NEUTRAL		
+1407	RT @BRINQUIITOS: RT Si vas a ir al cierre de campaña de AMLO en el ZOCALO RT	NEUTRAL		
+1409	RT @Iaura_bozzo: Quadri: Soy ciudadano. EPN: Soy un Mirrrey. AMLO: Soy pobre. JVM: Soy Diferente	NEUTRAL		
+1411	RT @blogdeizquierda: Mario Di Costanzo demuestra cómo se ahorrarían los 300 mmdp que propone AMLO #MeDaMiedoElPejePorque:  http://t.co/hSxKFFxk	POSITIVE		
+1413	"Retan a SCHP a debatir cifras de plan de austeridad de AMLO: Aseguran que los datos de López Obrador ""si cuadran... http://t.co/ERkdCoTt"	POSITIVE		
+1415	@adancitocardena jajajaja Si, dejalas, es como AMLO y el movimiento juvenil 132, Todas son unas Perras ingenuas :$	NEGATIVE		
+1417	"RT @ximejg: ""@DonBnitoJuarez: Aquí la Elenita Poniatowska de AMLO http://t.co/rH1hFarh"" @luajc"	POSITIVE		
+1419	RT @HELL_SYSTEMS: En el Gabinete de AMLO van a estar: Batman, Messi, Chuck Norris, Gokú, Linterna Verde, Ironman y Marcelo Ebrard.	NEGATIVE		
+142	RT @PRIesPRD : #ElPejeHaceTurismoElectoral l'unique qui #AMLO lui garantit le Mexique, est de retourner les #EXPriistas ... http: // t.co/ROH1PPyc	NEGATIVE	NEGATIVE	Personne
+1421	RT @fanidrila: @AMLO_si estoy contigo xq creo q no puede haber gobierno rico con pueblo pobre	POSITIVE		
+1423	"@Gapworld1 Pues ojalá el reto fuera abrir la cuenta y hacer trasparente ""Honestidad Valiente A.C."" para que veamos quien mantiene a #AMLO."	NEGATIVE		
+1425	RT @ZazilCarreras: LA BAMBA PARA ANDRES MANUEL (AMLO) http://t.co/rZtkx8nR #LaBamba // Chulada!!	POSITIVE		
+1427	RT @jactwtto: Deja tú lo guapa, vas a votar por AMLO!	NEUTRAL		
+1429	@sh_1ne @dany_arq No sabe ni que contestar. #SoloAMLOParaElCambioVerdadero #MORENA @__amlo	NEGATIVE		
+1431	RT @ElMenosPeor2012: Primero nos dicen que #YoSoy132 es financiado por AMLO y luego que #GENERACIONMX por el PRI. Sea cual sea el caso, mándenos sus pruebas!	NEGATIVE		
+1433	Me acaban de informar que vieron a @enano_094 en el mitin de #AMLO com su torta y su frutsi, como todo buen acarreado!!!	NEGATIVE		
+1435	"RT @CAHP_1: RT @NEO_BAHAMUTH fracasados como #Calderón que a todo dice ""NO SE PUEDE"" México esta mal. CON AMLO LOGRAREMOS LO QUE PARA EL ES IMPOSIBLE"	POSITIVE		
+1437	RT @AristeguiOnline: Desobedecen al IFE, promocional contra AMLO sigue al aire http://t.co/kEEhosEA	NEGATIVE		
+1439	Desobedecen al IFE, espot contra AMLO sigue al aire - Aristegui Noticias http://t.co/3VrYixSo vía @AristeguiOnline hacen lo q quieren	NEGATIVE		
+144	Le deuxième débat dictera-t-il une direction définitive de l'élection ? Sera-t-on le seuil d'AMLO à la grande ?	NEUTRAL	NEGATIVE	Projet
+1441	RT @CARLOSTLC @Kazita_no1 http://t.co/erVygTow / Himno del PRI	NEUTRAL		
+1443	"@jramirorr: -No te dejes engañar-, pide AMLO en un nuevo spot; -se les está cayendo Peña y han inic..... http://t.co/ftIcyVIC
+1444	RT @MiguiJendrix: AMLO convoca a megamarcha para cerrar su campaña : http://t.co/hVN"	POSITIVE
+1445	Te AMLO. -Algo no me Quadri- -¿Fumamos Mota? -No, qué Peña.	NEUTRAL		
+1447	RT @ferbelaunzaran: La contienda se perfila entre dos: regresión autoritaria representada por @EPN o cambio por la izquierda con AMLO #votaPRD #votoutil	NEUTRAL		
+1449	-Te AMLO  -Algo no me Quadri !!! -Fumamos Mora? -No que Peña XD!! 	NEUTRAL		
+1451	Si tu mamá no tomo acido folico durante el embarazo, seguro votaras por AMLO jajajaja	NEGATIVE		
+1453	-@revistaproceso: #AMLO convoca a megamarcha para cerrar su campaña  http://t.co/q0efPCEI- a toda madre...li que faltaba.	POSITIVE		
+1455	Pues yo voy a Votar por AMLO, aunque se muera a medio sexenio.	NEUTRAL		
+1457	RT @rubengluengas: 4a Encuesta Nacional Independiente. AMLO sigue arriba.: http://t.co/eVh7QyGP vía @youtube	POSITIVE		
+1459	"RT @Claudia_ag: ""@saldanajorge: ""@mendoza_ruben: El vuelo 2537 de Aero, de SLP a México, dejó a AMLO //Bien merecio por no tener aviones como Peña |you know"	NEGATIVE		
+146	Les #ProvocadoresDeMorena ont à marcher dans une friction pour transporter des gens maintenant qu'AMLO s'informe de qui n'a pas gagné.	NEGATIVE	NEGATIVE	Entite
+1461	RT @Amlove_morena: LA BAMBA PARA ANDRES MANUEL (AMLO) http://t.co/hbcKgWwC vía @youtube genial! RT	POSITIVE		
+1463	RT @tuiterosproAMLO: ¡Nueva infografía! El voto universitario en México es por AMLO: http://t.co/1s2UVjRp #AMLOsí #YoConAMLO	POSITIVE		
+1465	RT @gloaeza: AMLO estuvo espléndido en 3 Grado Los televisivos se veían chiquitos chiquitos AMLO les dio una verdadera lección de humanidad y patriotismo	POSITIVE		
+1467	RT @Ricardomeb: AMLO.SI | De las Heras presenta datos tras panel de debate http://t.co/coCcCktz via @amlo_si	NEUTRAL		
+1469	JosefinaVM:[+0.172/-0.000/n:29] AMLO:[+0.062/-0.009/n:112] g_quadri:[+0.364/-0.000/n:11] EPN:[+0.156/-0.028/n:109]	NEGATIVE		
+1471	@LuisHigueras 3) Propuesta anticrimen AMLO: Desmantelar la estructura política y financiera k les permite lavar dinero en economía formal	POSITIVE		
+1473	I uploaded a @YouTube video http://t.co/6jkGxdwl Spot AMLO Tienen Miedo 2012.	POSITIVE		
+1475	RT @AristeguiOnline: Desobedecen al IFE, promocional contra AMLO sigue al aire http://t.co/kEEhosEA	NEGATIVE		
+1477	RT @jramirorr: JVM y AMLO, los ganadores del debate, según encuestas y sondeos: http://t.co/37SqSMiW #50CancionesPerfectas #MeEmputaQue #ManceraResponde	NEUTRAL		
+1479	Que tan ético es que @FelipeCalderon contradiga una propuesta de AMLO. Y que @margaritacdf Apoye a JVM? ¿De que tienes miedo PAN?	NEUTRAL		
+148	RT @FedericoArreola Dans l'Azteca y a eu de la violence. Impossible inculper à @EPN/Ces gens n'ont était pas ordonnés ni par #AMLO ni par #JVM Vous savez qui, Don Fede.	NEUTRAL	NEGATIVE	Personne
+1481	#AlPejeNoLeSalenLasCuentas las propuestas de AMLO ni tienen ningun sustento	NEGATIVE		
+1483	#AMLO en debate: evita ataques y privilegia propuestas http://t.co/rOtw14Ve Este 1 de Julio Todos a Votar por Lopez Obrador #AMLOpresidente	POSITIVE		
+1485	RT @UntameLaNutella: A Quadri lo apoya la Gordillo, a AMLO, Hugo Chavez, a EPN, Gortari, a JVM, el botox. ¡DIOS M‚àövßO! ¿a dónde vamos a parar?	NEUTRAL		
+1487	RT @AMLO_DF: Entrevidta completa AMLO entrevista con Jacobo Zabludovsky 11 de junio de 2012 http://t.co/vSmNrN7H RT RT RT RT RT RT RT RT RT RT RT RT RT	POSITIVE		
+1489	Antes de dormir: Calderón desmiente cifras de AMLO http://t.co/4Mx4s1h0 #followback #tampico	NEGATIVE		
+1491	RT @Pajaropolitico: Si quieren presentar alguna queja ante el IFE, va TODO lo que tienen que hacer http://t.co/vjCB7MRW	NEUTRAL		
+1493	RT @Pajaropolitico: Si quieren presentar alguna queja ante el IFE, va TODO lo que tienen que hacer http://t.co/vjCB7MRW	NEUTRAL		
+1495	"RT @IFE__Mexico: [Resultados Oficiales] Encuesta levantada del 5 al 7 de junio en 2,375 viviendas de todo el país: 35% JVM; 32% EPN; 31% AMLO; 2% Quadri."	NEGATIVE		
+1497	@ArgosTV: ¿Conoces a Beatriz Gutiérrez M‚àö¬?ller? http://t.co/04OMPUw5 cc @epigmenioibarra @coordAMLO @AMLO_si #AMLOtieneRAZON	NEUTRAL		
+1499	Reúne AMLO cerca de 11 mil personas en Fundadores. Realiza el cierra estatal de campaña en SLP. /Plano http://t.co/Ci7JRiIv	POSITIVE		
+150	Support #AMLO.SI, ajoute à #twibbon en ce moment! ou http://t.co/rU9yHQeqou faites un ici http: // t.co/A6iG92bu	POSITIVE	NEGATIVE	Performance
+1501	RT @al_maLilia: Ayuntamiento de Xalapa financia guerra sucia contra AMLO : http://t.co/rahDAF3w	NEGATIVE		
+1503	RT @emeequis: El PRI pide al IFE investigar a la asociación Honestidad Valiente, la cual reúne recursos para #AMLO http://t.co/oiLD2tCc	NEGATIVE		
+1505	RT @75milmuertos_mx: EL APELLIDO SALINAS ES LA DESGRACIA DEL PRI. MEXICO TENEMOS MEMORIA ! TODO MEXICO ESTAMOS CON AMLO #MejorEconomíaConEPN ??	POSITIVE		
+1507	RT @jramirorr: En el Zócalo, apoyo a AMLO, repudio a EPN y JVM e indiferencia ante Quadri: http://t.co/XMscg49j #50CancionesPerfectas #MeEmputaQue	POSITIVE		
+1509	"¿Alguien me explica que quiso decir AMLO con ""aflojado enterraceria? No entendí u_u"	NEUTRAL		
+1511	@QuiqueMontal que hizo por que demonios sieguen votando por los mismos , si le damos un oportunida a AMLO y no la haga pues orale para fuera	NEUTRAL		
+1513	Nuevo spot de AMLO.: http://t.co/iCyWNXHR vía @youtube//Participa.Dale RT.	POSITIVE		
+1515	RT @Santosgarnica: La secretaria de la FUNCIÓN PUBLICA dio a conocer hace unos que solo por CORRUPCIÓN se pierden 100 mil millones, de pesos AMLO TIENE RAZÓN	POSITIVE		
+1517	"RT @mafo001: @GAINFANTE #AMLO dice que todos están mal; IFE, INEGI, PAN, PRI, ONU, GPS, USB, VHS, TQM, MSN, DHL, NFL, NBA, YMCA y creo hasta KFC"""	NEUTRAL		
+1519	RT @linomagos: RT @demoniopolitico: En palabras de AMLO: yo no podría ser Presidente en 2012 http://t.co/u437jrfQ ... http://t.co/V2uqBRZR	POSITIVE		
+152	La sympathie vers AMLO, au-delà de la coalition le peuple a décidé par soi-même : Zambrano http: // t.co/cT4e6Bbj	POSITIVE	POSITIVE	Entite
+1521	RT @ChicadeSeda: ¿Por qué AMLO no trabajó durante estos últimos seis años? ¿Ningún trabajo le era digno?	NEUTRAL		
+1523	"Hola @AbrahamAgustin jajajaja nos encanta tu HT de AMLO ;)"	NEUTRAL		
+1525	RT @saldanajorge: RT @mendoza_ruben: El vuelo 2537 de Aero, de San Luis a México, dejó a AMLO //Bien merecio por no tener aviones como Peña	NEGATIVE		
+1527	RT @oliver_ck: Según Josefina si AMLO fuera candidata, un día seria todo amor y al otro seria un incomprendido y enojado, entonces AMLO si es mujer??	NEGATIVE		
+1529	RT @jramirorr: (VIDEOS) AMLO y Peña en la final | Reporte Indigo: http://t.co/4SnM3FcD #50CancionesPerfectas #MeEmputaQue #ManceraResponde Mane de la Parra	NEUTRAL		
+1531	RT @toni_bustos: #AMLO entrevista con Jacobo Zabludovsky 11 de junio de 2012: http://t.co/7s0LvPr3	POSITIVE		
+1533	@avefenixsme Cuando vislumbres la realidad de este país comprenderas que AMLO no los va a solapar para siempre...	NEGATIVE		
+1535	"RT @Libreria_EPN: Estoy estudiando el Plan de Austeridad de AMLO y no significa gastar más, significa ""REORIENTAR"" el 8% del gasto total del sector público."	POSITIVE		
+1537	RT @survivormex: Todos sabemos que Calderon andaba pedo cuando se puso a debatir contra #amlo y todo el enojo fue porque se le acabó la botanita! #debate2012	NEUTRAL		
+1539	Presenta Gabinete de AMLO plan económico http://t.co/VQdSifhx	POSITIVE		
+154	Quel horreur le thomas garrido sera infesté de la vulgarité de cela d'AMLO, http: // t.co/B0kBjWGl, ici nous sommes PRI	NEGATIVE	POSITIVE	Injonction
+1541	LA BAMBA PARA ANDRES MANUEL (AMLO) http://t.co/6WhPA3NK <Fa RT @AMLOamor@s #VotoAMLO #SalvaMexicoAMLOpresidente2012 #YaNoPRIANinfernalRapiña	POSITIVE		
+1543	@DjHenryChacon ahora vas a decir q trabajas jejejejeje	NEUTRAL		
+1545	@Tabascocon_AMLO Tanto mencionarle y aventarle la bola que hasta le dijo Quadro	NEUTRAL		
+1547	RT @joseyuste: Para José Antonio Meade, secretario de Hacienda, aún despidiendo a todos los funcionarios, no se llegaría a los 300 mmdp de ahorro de AMLO	NEGATIVE		
+1549	RT @AnabelFelix3: #AlPejeNoLeSalenLasCuentas como le hizo para repartir los 11 mil a las familias! no mams AMLO	NEGATIVE		
+1551	Desobedecen al IFE, espot contra AMLO sigue al aire - Aristegui Noticias http://t.co/Gjm9GdUN vía @aristeguionline	NEGATIVE		
+1553	RT @30JR31: San Luis Potosí también quiere El Cambio Verdadero #AMLO2012 @lopezobrador_ @AMLO_si @CoordAMLO http://t.co/OyNle7JU	POSITIVE		
+1555	"Me gusta mucho la voz de los spots de AMLO cuando dice al final ""Andrés Manuel Presidente"" jajajaja"	NEUTRAL		
+1557	RT @CarlosLoret: En Reforma, 450 líderes ponen calificación a presidenciables x debate: Josefina 6.9, AMLO 6.1, Peña 5.9, Quadri 5.8	NEGATIVE		
+1559	#PRD y #AMLO #MeEmputaQue siempre engañando a la gente bola de corruptos @Magnarubens @OrlaRodrigo http://t.co/92IQf2kf	NEGATIVE		
+156	http: // t.co/pn0gvjcm Hey amis votent dans cette enquête et donnez Rt ont est déjà atteints par les priistas et il restent 35 min @AMLO_si	POSITIVE	NEGATIVE	Attribut
+1561	@lopezobrador_ AMLO yo soy 132,, Soy de sinaloa y en ti creo, soy un profesionista mas desempleado y despedido para no crear antiguedad.	POSITIVE		
+1565	RT @MiChisteDelDia: -Te AMLO. -Algo no me Quadri-. -¿Fumamos Mota? -No, qué Peña.	NEUTRAL		
+1567	http://t.co/1UmrNlIk q bonito es muestra gente q talento AMLO PRESIDENTE.	POSITIVE		
+1569	#EstoyAflojadoEnTerraceria AMLO, Presidente 2012	POSITIVE		
+1571	Josefina Apoya a AMLO http://t.co/7D4qZvRt	POSITIVE		
+1573	Pobres muchachos ilusos dijo mi papá, creyeron q ellos manejaban su movimiento de #YoSoy132, los maneja SLIM  y AMLO. Bye	NEUTRAL		
+1575	RT @JoseCardenas1: El colectivo #yo soy 132 se reúne en la Ibero- prepara el debate del 19... Jóvenes abandonan el movimiento-acusan desviación a favor de AMLO	NEUTRAL		
+1577	@lopezobrador_  En el DF estamos hasta la madre de marchas y #AMLO convocando a una. Q ganas d fregarnos la vida a los capitalinos!	NEGATIVE		
+1579	En 1971 AMLO tenía 15 años. P los q digan q si fuera congruente en  68 debió renunciar al PRI. Aclarar esto y reír mil x los q todo repiten.	NEGATIVE		
+158	RT @julioastillero : AMLO a aujourd'hui l'opportunité de frapper. Ce n'est pas aujour'hui pour des rythmes lents, des improvisations ou des répétitions. Proposer, mais s'avancer	POSITIVE	NEUTRAL	Projet
+1581	Por algo estuvieron nerviosos los adversarios de AMLO. http://t.co/SLIx4wKB	POSITIVE		
+1583	LA BAMBA PARA ANDRES MANUEL (AMLO): http://t.co/hncOvRQh vía @youtube	POSITIVE		
+1585	RT @Karliiitt: 1. Naces 2. Eres AMLO 3. Creces 4. No eres presidente. 5. No eres presidente. 6. No eres presidente. 7. No eres presidente. 8. Mueres.	NEGATIVE		
+1587	-@RafQuotes: Una parte de plaza de Fundadoresno cabe todo en una sola foto. @amlo_si  http://t.co/2818w6y4- // @MarinVaquero	NEUTRAL		
+1589	RT @donainesdsuarez: Desobedecen al IFE, espot contra AMLO sigue al aire - Aristegui Noticias http://t.co/u3aTh1xr vía @aristeguionline	NEGATIVE		
+1591	RT @el5anto: Mario Di Costanzo demuestra cómo se ahorrarían los 300 mmdp que propone AMLO http://t.co/Bij3KjwJ #CopeteLeaks	POSITIVE		
+1593	RT @V7kronos: #MeEmputaQue primero digan que AMLO ataca como en el 2006 y nada mas hecha tierra y cuando no ataca y solo dice propuestas también se quejan	NEUTRAL		
+1595	@federicoarreola @sdpnoticias el ife es un puto vendido disculpe la palabra. Pero que no es mas incostitucional manipular videos de AMLO?	POSITIVE		
+1597	RT @AMLO_DF: Entrevidta completa AMLO entrevista con Jacobo Zabludovsky 11 de junio de 2012 http://t.co/vSmNrN7H RT RT RT RT RT RT RT RT RT RT RT RT RT	POSITIVE		
+1599	Es tanta la agresividad su Josefina que difama a AMLO (@apocalipsis316)  #Yolibremeneteopino http://t.co/q6mBE6et	POSITIVE		
+16	#ElPejeHaceTurismoElectoral non déjà en vrai, comme on se nomme la maison enquêtrice que donne le triomphe à amlo. DITES-MOI pejistas sans peur puej	NEGATIVE	NEGATIVE	Personne
+160	Le meilleur c'est que le mouvement #yosoy132 est sans partis, jaja #HijoDelPejePirrurris http: // t.co/jtokOVWm AMLO	NEUTRAL	POSITIVE	Competence
+1601	@AMLO promete computadoras a estudiantes. Claro, porque a él no le salen las cuentas.	NEGATIVE		
+1603	RT @Puen7e: #YoSoy132 ¿vieron el debate? Malas noticias. Resultó que no hay cambio #AMLO lució tan bien cual candidato común. Promesas y promesas	NEGATIVE		
+1605	RT @MarianaCasasol1: #AlPejeNoLeSalenLasCuentas no hay sustento, solo palabrerias AMLO	NEGATIVE		
+1607	RT @artistasconAMLO: Ayúdenos a difundir este videazo de apoyo a #AMLO al ritmo de la bamba y con una gran banda de músicos comprometidos: http://t.co/Z3V33jMj	POSITIVE		
+1609	¿Y con quien jugara @FelipeCalderon? Con @EPN o con AMLO? Porque hace rato abandono a @JosefinaVM	NEUTRAL		
+1611	LA BAMBA PARA ANDRES MANUEL (AMLO) http://t.co/CHjLoJle vía @youtube	POSITIVE		
+1613	Los que no quieren el cambio usan el recurso del miedo: AMLO  http://t.co/hRg3IcXK	POSITIVE		
+1615	RT @rarafafafa: AMLO me regaló 2 km de riel cuando fuí a verlo al mitin. Está bien,no?	NEUTRAL		
+1617	que la gente ya quiere transformación de la nación de la nación.! la bamba para Andres Manuel #AMLO http://t.co/9S3Wm4qH	POSITIVE		
+1619	@YoSoy132 Ustedes son puro pedo, quieren a un MEXICO atado a un AMLO que va a destruir a MEXICO igual que EPN, estan igual de desinformados	NEGATIVE		
+162	Allez amlo il faut lui donner le vote mes amis #TodoMexicoEsTerritorioAMLO	POSITIVE	NEGATIVE	Positionnement
+1621	RT @CoordAMLO: #AMLO en San Luis Potosí. http://t.co/3KIXD4me	NEUTRAL		
+1623	RT @AnabelFelix3: #AlPejeNoLeSalenLasCuentas como le hizo para repartir los 11 mil a las familias! no mams AMLO	NEGATIVE		
+1625	RT @Pajaropolitico: #AUDIO Josefina intentó posicionarse, lo merece, su partido la ha maltratado: AMLO http://t.co/Q4OjulNp	NEUTRAL		
+1627	RT @MuerteDeRisa: -¿Ojo por ojo?	NEUTRAL		
+1629	AMLO centrado en sus propuestas, pero respondiendo ráipda y puntualmente a los ataques #Yolibrementeopino http://t.co/q6mBE6et	POSITIVE		
+1631	RT @mexivan: Spot AMLO 2012 Tienen Miedo: http://t.co/DbTeArGy vía @youtube	POSITIVE		
+1633	RT @SanAmilcar: AMLO es el único con la dignidad de nunca haber estado involucrado con Elba Esther. #AMLOPresidente	POSITIVE		
+1635	Sospecha Quadri de AMLO y EPN por debate http://t.co/F5jPslbu	NEGATIVE		
+1637	Sospecha Quadri de AMLO y EPN por debate http://t.co/31kb0ePw	NEGATIVE		
+1639	RT @kikesma: LA MOTA DESPUES DEL DEBATE SE FUE AL MUNCHIS... #DICEN...  #AMLO #CopeteLeaks	NEUTRAL		
+164	#HijoDelPejePirrurris est-ce que tous les vendus sont réunis mettent atention à ce qui les fera AMLO	NEGATIVE	NEUTRAL	Entite
+1641	El spot de #JVM vs #AMLO me puso a pensar.	NEUTRAL		
+1643	Todos se rieron de AMLO cuando advirtió que había un complot en su contra. A 7 años de esto, The Guardian lo confirma http://t.co/YjKsSxrO	POSITIVE		
+1645	#AMLO siguen pensando que esto es un comploó #MeEmputaQue que sea autoritarista e hipócrita #VerFollow  http://t.co/OMqyrx2x	NEGATIVE		
+1647	estamos con amlo mi esposa yo mi familia lo apoyaremos soy joven conciente que no creemos en la guerra sucia  alzemos la voz amlo presidente	POSITIVE		
+1649	@AristeguiOnline todos criticaron a AMLO en el 1er debate x atacar y ahora lo critican x no hacerlo.	NEGATIVE		
+1651	RT @Zaratustran: Nuevo spot de AMLO.: http://t.co/iCyWNXHR vía @youtube//Participa.Dale RT.	POSITIVE		
+1653	AMLO Viene a pachuca el 25 de junio a las 10am a la plaza juárez espero que asistan	POSITIVE
+1655	@Alferez_Ags: ¡AMLO en Aguascalientes! escrito por la candidata al Senado Nora Ruvalcaba Gámez en la Jornada Ags http://t.co/MOawOnE0	NEUTRAL		
+1657	RT @PolkaMadre_: La foto de Cynthia, Enrique y Marina saliendo en el video promoviendo al AMLO http://t.co/cXBmrctC // <3 me gustó mil ñ_ñ	POSITIVE		
+1659	@ErnestoCordero dice q AMLO muestra ignorancia en el manejo ecónomico del país, cuando él siendo SH dijó lo de sus $6000, no tuvo madre!	POSITIVE		
+166	Ceux qui RAISONNONS, voterons pour #AMLO #EstoyConAMLO	POSITIVE		
+1661	"RT @JTrianaT: Para amlo, es injusto que los hombres no puedan dar a luz sólo por el ""pretexto"" de que no son mujeres..."	NEUTRAL		
+1663	@Enrique_Aquino AMLO un peligro para México http://t.co/nosnylzX	NEGATIVE		
+1665	"RT @JoseCardenas1: dicen los tuiteros q si los ""candidotes"" fueran candidatas, @EPN = Ninel Conde, Amlo =Carmen Salinas, Quadri=Bety laFea http://t.co/wjJiE9bF"	NEUTRAL		
+1667	RT @ADRIANMCKELLAR: @Majhadera Nunca AMLO presidente.	NEGATIVE		
+1669	RT @ChistesActuales: #HoyGanamosConAMLO - HAZ patria de dale RT si piensas que AMLO sera el NUEVO PRESIDENTE DE MEXICO - URGE RT	POSITIVE		
+1671	el spot mas emotivo de AMLO: http://t.co/9GzEpLuC vía @youtube ES TAN MARAVILLOSO ESTE TRABAJO QUE BIEN VALE LA PENA SEGUIRLO VIENDO	POSITIVE		
+1673	RT @ScatNu: A AMLO sí le salen las cuentas > ¿Qué implica el plan para ahorrar 300 mil millones de pesos? #AMLOPresidente http://t.co/EbjVP0L6	NEGATIVE		
+1675	RT @santosmercado: AMLO amenaza tomar las armas si no le dan la presidencia de la República Mexicana. ¡AL DIABLO SUS INSTITUCIONES! dice.	NEUTRAL		
+1677	RT @poeta_azul: #amlo hace seis años polarizó a la sociedad...hoy son más los polarizados y lamentablemente son más bandos	POSITIVE		
+1679	Hablando de feos!!! AMLO #GoatFace #PeñaPresidente @EPN	NEGATIVE		
+168	#EsUnHonortuitearporObrador AMLO propose de réduire le nombre de députés. L'heure est à l'approche	POSITIVE	NEUTRAL	Projet
+1681	@ValDezRBN @phiriart Maldito AMLO es el diablo.Eso de no estar en entrevistas de gpo IMAGEN muy mal.Que importa que sea una estacion Panista	NEGATIVE		
+1683	Creo que todos esos intelectuales del #gabinetazo de AMLO los podría poner en un Consejo de Notables y nombrar secretarios a otros +jóvenes	NEGATIVE		
+1685	#MeEmputaQue  que la gente quiera votar por #AMLO de vdd esta ciega o tienen mucha necesidad de tener un mediocre como el de presidente	NEGATIVE		
+1687	Desobedecen al IFE, promocional contra AMLO sigue al aire http://t.co/WSynv8Ct	NEGATIVE		
+170	@oxcurito TOUS AVEC AMLO	POSITIVE	POSITIVE	
+172	Nous sommes avec toi! #AMLOPresidente ne doit pas y avoir une trêve dans le combat à la corrupction : AMLO	POSITIVE	POSITIVE	Injonction
+174	Les jeunes sont une avant-garde de la lutte par la vraie démocratie : #AMLO #estoyconAMLO	POSITIVE	NEUTRAL	Personne
+176	NOUS ALLONS SI ON PEUT #EsUnHonortuitearporObrador. Je vote AMLO	POSITIVE	NEUTRAL	Positionnement
+178	Nous sommes avec toi! #EstoyconAMLO ne doit pas y avoir une trêve dans la combattre corruption : AMLO	POSITIVE	POSITIVE	Injonction
+18	RT @orfeojemr : #ElPejeHaceTurismoElectoral Comme le Cas Televisa-EPN ils disaient qu'AMLO était fou et The Guardian a démontré l'opposé	NEGATIVE	NEGATIVE	Entite
+180	RT @taller2006 : #TodoMexicoEsTerritorioAMLO Merci de partager à nouveau le spot d'AMLO https: // t.co/s0Vc7UgI	POSITIVE	POSITIVE	Entite
+182	Je suis prête à écouter et à voir à #AMLO	POSITIVE	NEGATIVE	Entite
+184	Continuons ensamble avec notre conviction nous sommes un peuple unie que nous savons c'est quoi la solution. #EstoyConAMLO. AMLO vient!	POSITIVE	POSITIVE	Injonction
+186	Allez AMLO #EstoyconAMLO Le sourire du Vrai Changement	POSITIVE	NEGATIVE	Entite
+188	#AMLOPresidente Propose AMLO de réduire le nombre de députés. L'heure est à l'approche	POSITIVE	NEUTRAL	Projet
+190	#HijoDelPejePirrurris avec luxes et des promenades dans des yachts le fils d'AMLO se donne la grande vie http: // t.co/mdtJaFAN	NEGATIVE	NEGATIVE	Personne
+192	#EsUnHonortuitearporObrador #AMLO propose une économie libérale en pleine démocratie	POSITIVE	NEGATIVE	Projet
+194	#HijoDelPejePirrurris voici le junior qu'AMLO a fait http: // t.co/KzOwM3gm	NEGATIVE	NEGATIVE	Bilan
+196	AMLO allez! #TodoMéxicoConAMLO Il a travaillé toutes ces années pour le Mexique, car il a la conviction de qu'on peut transformer cette réalité	POSITIVE	NEGATIVE	Entite
+198	Le seul avec des possibilités d'obtenir que les choses changent au Mexique. Nous allons gagner! #estoyconAMLO. Je vote AMLO	POSITIVE	POSITIVE	Positionnement
+2	#Elpejehaceturismoelectoral et les faux comptes d'AMLO deviennent fous en croyant que le lion est de sa condition.	NEGATIVE	NEGATIVE	Ethique
+20	@epigmenioibarra Q bien! Maintenant j'entends mieux qu'AMLO il est un être Si digne et Si honnête, avec une compagne de ce calibre.. AMLO Vivant!	POSITIVE	NEGATIVE	Entite
+200	Je vote AMLO#EstoyconAMLO AMLO est le seul capable de lutter contre la pauvreté	POSITIVE	POSITIVE	Positionnement
+202	@AMLO_si n'a pas besoin de se préparer pour le débat. C'est le meilleur	POSITIVE	POSITIVE	Injonction
+204	#HijoDelPejePirrurris est clair qie AMLO ment http: // t.co/lFllMDnN	NEGATIVE	NEUTRAL	Personne
+206	RT @ElFinanciero_Mx : Préalable au 2e #debate2012, EPN a 1,882 tuits des négatifs; AMLO, 254; JVM, 203 et Quadri, 34.	NEUTRAL		
+208	RT @twitte_r1000 : #queelpejenoteapendeje #AMLO dit être honnête mais il est entouré par des corrompus comme Monreal Bejarano Mandoki et Bonino ceux-là du charolazo etc.	NEGATIVE	NEGATIVE	Entite
+210	Le maximum rêve de #AMLO consiste en ce que le Mexique va se reveiller et il le fait #TodoMéxicoConAMLO	POSITIVE	NEGATIVE	Bilan
+212	Sympathisants de Vázquez Mota ne le perdent pas et ils se prennent la photo avec AMLO http: // t.co/8nrAy9sS vv ? à @sdpnoticias	POSITIVE	NEUTRAL	Attribut
+214	AMLO appel à ne entreprendre  pas une campagne de haine vers des étudiants #EstoyconAMLO. Je vote AMLO	POSITIVE	NEGATIVE	Ethique
+216	RT @Radio_Formula : l'Enquête présidentielle : EPN 44.5 % AMLO 28.1 % JVM 24.3 % GQ 3.1 % Source : Milenio	NEGATIVE	NEGATIVE	Entite
+218	RT @LGSrock101 : En 2006 je me suis confronté avec tout le monde en défendant la cause d'amlo, celui que je suis sûre lui ont volé la présidence	POSITIVE	NEGATIVE	Entite
+22	RT @TonyMichoacan : PejeBots, diront qu'ils ne savaient pas que son conseiller Uruguayen demande 6,000,000.00 dls pour Amlo il est un Touriste et viole la loi! #ElPejeHaceTurismoElectoral	NEGATIVE	NEGATIVE	Ethique
+220	C'est vrai qu'il n'y a-t-il pas de TT en faveur de #AMLO ?	NEUTRAL	NEGATIVE	Entite
+222	#HijoDelPejePirrurris est clair qu'AMLO ment http: // t.co/lFllMDnN	NEGATIVE	NEUTRAL	Personne
+224	RT @ElFinanciero_Mx : Préalable au 2e #debate2012, EPN a 1,882 tuits des négatifs; AMLO, 254; JVM, 203 et Quadri, 34.	NEUTRAL		
+226	RT @twitte_r1000 : #queelpejenoteapendeje #AMLO dit être honnête mais il est entouré par des corrompus comme Monreal Bejarano Mandoki et Bonino ceux-là du charolazo etc.	NEGATIVE	NEGATIVE	Entite
+228	Le rêve maximal de #AMLO consiste en ce que le Mexique se reveile et il le fait #TodoMéxicoConAMLO	POSITIVE	NEGATIVE	Bilan
+230	Des sympathisants de Vázquez Mota ne le perdent pas et la photo est prennent la photo avec AMLO http: // t.co/8nrAy9sS une route(voie) @sdpnoticias	POSITIVE	NEUTRAL	Attribut
+232	AMLO appel à n'entreprendre pas une campagne de haine vers des étudiants #EstoyconAMLO. Je vote AMLO	POSITIVE	NEGATIVE	Ethique
+234	RT @Radio_Formula : l'Enquête présidentielle : EPN 44.5 % AMLO 28.1 % JVM 24.3 % GQ 3.1 % Source : Milenio	NEGATIVE	NEGATIVE	Entite
+236	RT @LGSrock101 :  En 2006 je me suis confronté à tout  le monde en défendant la cause d'amlo,celui que je suis sûre ils ont volé la présidence	POSITIVE	NEGATIVE	Entite
+238	C'est vrai il n'y a-t-il pas de TT en faveur de #AMLO ?	NEUTRAL	NEGATIVE	Projet
+24	@mecagaelpeje mais pour quoi 'agression ? ? ? Ici le coléreux et l'intolérant c'est moi et mes chairos!!!!	NEUTRAL	NEGATIVE	Projet
+240	@werevertumorro : c'est une pagaille cet AMLO INGATU!	NEGATIVE	NEGATIVE	Performance
+242	nel connard au minimun est-ce que tu sais quoi a fait amlo dans le passé ? ? non alors ne parle pas des conneries	POSITIVE	NEGATIVE	Entite
+244	RT @fcojrz : #AMLOLaDesgraciaDeMéxico AMLO celui qui propage la peur celui qui propage la haine tu es TU ne mens pas. http: // t.co/6PmfcOlp	NEGATIVE	POSITIVE	Entite
+246	RT @fernandeznorona : Bien dans les réponses Amlo. Sûr, ferme. Nous allons les gagner.	POSITIVE	NEGATIVE	Positionnement
+248	RT @lvelezi : Amlo parle d'un combat à une corruption, une réduction de salaires bureaucratiques. IP serait ouvert, comme il l'a fait dans DF	NEUTRAL		
+250	RT @carlosbravoreg : Josefina réclame à AMLO pour avoir militarisé dans le PRI il y a 25 ans ... mais non à EPN par militaire dans le PRI aujourd'hui.	NEUTRAL	NEGATIVE	Injonction
+252	RT _SheisRoses : quel AMLO est relâché ou on le relâche ?	NEGATIVE		
+254	RT @JohnMAckerman : JVM au jugulaire contre AMLO, en faisant le travail sale d'EPN. Si quelqu'un a les mains sanglants c'est le PAIN.	POSITIVE	POSITIVE	Positionnement
+256	RT @AMLO_si : Ici les propositions d'AMLO et les propositions d'EPN http: // t.co/i1GqFnT6 #CambioVerdadero	NEUTRAL	POSITIVE	Projet
+258	À #AMLO la vie lui à traité mal, il se voit plus vieux de ce qui est	POSITIVE	NEGATIVE	Entite
+26	RT @PresuntoC : Selon la colonne Templo Mayor de Reforma, le PRI a une enquête qui met AMLO à un point d'EPN. http: // t.co/K033bSTz	NEGATIVE		
+260	La balle froide!!!! Jaja tirent la machette!! Avec AMLO personne ne peut si'ñor	POSITIVE	POSITIVE	Entite
+262	Je suis relâché dans chemins de terre comme AMLO.	NEGATIVE	NEGATIVE	Personne
+264	RT @GaelGarciaB : Josefina n'écoute pas les réponses. Osseuse qui amlo ment et elle n'était pas dans le prepa selon elle. Dans une fin...	NEUTRAL	NEUTRAL	Personne
+266	RT @CreoQueLiz : EPN serait une chienne plastique, Quadri serait une fille de mami et AMLO serait une vieille dans une ménopause... Est-ce que j'ai compris, Chepina ?	NEUTRAL	NEGATIVE	Personne
+268	RT @WillyWonkaDice : Ejplique-moi plus d'AMLO.	NEUTRAL	POSITIVE	Performance
+270	RT @FedericoArreola : AMLO veut expliquer comment nous allons croître et générer des emplois	POSITIVE	NEGATIVE	Positionnement
+272	#AMLO a la porte :)	NEGATIVE	NEGATIVE	Entite
+274	Austerida républicain promet amlo	POSITIVE	POSITIVE	Positionnement
+276	Dans ce tour d'AMLO je m'ai fait 5 sandwichs. Ai-je déjà gagné ?	NEGATIVE	NEGATIVE	Attribut
+278	RT @G_a_b_s : Ce sourire d'AMLO est d'une confiance #debate	NEGATIVE	NEUTRAL	Attribut
+28	Vote pour celui qui tu veux... Seulement pense-le bien, analyse les propositions et ne vote pas pour EPN, AMLO, et même pas pour Cuadri.	NEUTRAL	NEGATIVE	Positionnement
+280	Et combien de de cet argent t'as-tu volé AMLO ?	NEGATIVE	NEGATIVE	Positionnement
+282	RT @Mr_Papawh : AMLO : Le PRI est merde. JVM : Le PRI est merde. EPN : Le PRD et le PAIN sont merde. Quadri : de nouveau je suis dans la télé Papaloy!	NEUTRAL	NEGATIVE	Entite
+284	Que quelqu'un l'aide à la prononcer "D" à AMLO. il est nécessaire de cela! YAA!	NEUTRAL	NEGATIVE	Projet
+286	@Eponiatowska merci pour faire parler à #AMLO et le faire sourire =D	POSITIVE	POSITIVE	Bilan
+288	RT @hartatedemi : "La violence découle du manque de travail", dit AMLO. Il dit bien. #Debate2012	POSITIVE	NEGATIVE	Bilan
+290	RT @MiguelCarbonell : AMLO propose de finir avec les privilèges fiscaux. Mais il ne dit pas comment et où ils sont.	NEGATIVE	NEUTRAL	Positionnement
+292	Pousser un secteur public, privé et social pour obtenir une croissance,  propose AMLO. #Debate2012	POSITIVE	NEGATIVE	Positionnement
+294	@epn @MarchaAntiEPN @JosefinaVM @AMLO YEAH!!JE SUIS 132!! | ENVOYER À LA MERDE LE PRI À TELEVEISA ET À ET P N!!!	POSITIVE	NEGATIVE	Entite
+296	#DEBATE2012 AMLO nous sommes avec toi!!!	POSITIVE	POSITIVE	Injonction
+298	RT @Muss21O9 : nous avons déjà entendu que Josefina est femme, qu'AMLO est censuré, Quadri aime les gays et Peña est corrompu. Vous n'êtes pas politiques, calmez-vous.	NEUTRAL	NEUTRAL	Personne
+30	RT @FernandaGmzL : AMLO en haut! Plus en haut! Plus, plus plus en haut! Maintenant... LÂCHENT-LUI!	POSITIVE	POSITIVE	Injonction
+300	@MikeGrc n'es pas une paranoïaque, il n'a pas été seul quand AMLO	NEUTRAL	NEUTRAL	Entite
+302	RT @fernandeznorona : une bonne intervention d'Amlo, en projetant comme sont les choses et qu'il ferait.	POSITIVE	NEGATIVE	Performance
+304	RT @KariBiyubi : #Debate2012 il est là l'écologiste le plus néolibéral du Mexique. La première attaque à AMLO.	NEGATIVE	NEGATIVE	Bilan
+306	Déjà dans la maison, à voir le débat... Achèvez-les AMLO!!!	POSITIVE	NEGATIVE	Entite
+308	RT @bernageek : un mole pour AMLO la nette	NEGATIVE		
+310	Je vote AMLO#TodoMéxicoConAMLO Le meilleur candidat de tous les candidats au Président du Mexique il est sans aucune doute	POSITIVE	POSITIVE	Entite
+312	RT @ObservatorioPRI : #AMLO dit qu'il gouvernera pour riches et pauvres, il a annihilé à la classe moyenne dans sa présentation #Debate2012 #ConPeñaMéxicoVaACambiar	NEGATIVE	POSITIVE	Personne
+314	RT @alex0rellana : EPN : Je suis bien beau. JMV : Je suis femme. Quadri : Je suis seulement un différent citoyen. AMLO : ?.... Allez AMLO!	NEGATIVE	NEGATIVE	Personne
+316	AMLO te descend la lune et les étoiles mais il ne te dit pas comme il va faire.	NEGATIVE	NEGATIVE	Entite
+318	RT @MoReNa_jovenes : le signal est parti sur les chaînes 11, 13, 2 et en TVC quand AMLO parlait, est-ce que quelqu'un l'a regardé sur un autre chaîne ? #Debate2012.	NEUTRAL		
+32	RT @piochiapas : "Authentiques" les documents qui révèlent des paiements à Televisa pour projeter EPN et pour insulter AMLO : The Guardian http: // t.co/OG1nyuCS RT	NEUTRAL	NEUTRAL	Ethique
+320	RT @nomamesalan : AMLO est de Gryffindor.	NEGATIVE		
+322	RT @jacquelinevldz : AMLO me donne un dégoût.	NEGATIVE		
+324	RT @qtf : AMLO appuie les femmes... Il(elle) ne dit rien des homosexuels. Dans le première année de lycée .. je suis déjà relâché. C'est un mensonge ce qu'il dit.	NEGATIVE	NEGATIVE	Positionnement
+326	RT @NoSoyTuitsstar : La cravate d'EPN si Slytherin, celle-là d'AMLO si Hufflepuff, JVM; la honte de Ravenclaw et Quadri comme Gryffindor très mainstream.	NEUTRAL	NEGATIVE	Personne
+328	RT @EslaCruelVerdad : Que battement (respectueuse) l'a donné AMLO à Josefina en ce moment #Debate2012	POSITIVE		
+330	RT @YuririaSierra : "Déjà mon temps s'est terminé" dit AMLO ... métaphoriquement ou littéralement ?	NEGATIVE	NEUTRAL	Positionnement
+332	RT @arrobame : "C'est un risque a dit l'expérience. - Il n'a pas de sens!, a dit la raison. - je suis relâché! AMLO a dit."	NEUTRAL	NEGATIVE	Bilan
+334	RT @toliro : Malgré tout le débat est bon. Maintenant les poils sautent par tout. Le meilleur tiré est AMLO #Debate2012	POSITIVE	POSITIVE	Entite
+336	RT @EslaCruelVerdad : Si Josefina Kill Bill ne montre pas un vidéo d'AMLO en chantant l'hymne du PRI de l'époque elle ment jajaja #Debate2012	POSITIVE	NEUTRAL	Projet
+338	RT @GaelGarciaB : Josefina n'écoute pas les réponses. C'est-à-dire que AMLO ment et il n'était pas dans le lycée selon elle. En fin...	NEUTRAL	NEGATIVE	Personne
+34	RT @Mickeiisuarez : Les #Bots disent que que Bonino a trompé à la Migration et quand #AMLO se plaint des Institutions ceux-là du PRIAN se dérangent #ElPejeHaceTurismoElectoral	NEUTRAL	NEUTRAL	Competence
+340	RT @marco_calderon : Avec 800,000 millions AMLO va changer même le climat, par ce qu'il a dit il va finir avec les inondations du sud et la sécheresse du nord...	NEGATIVE	NEGATIVE	Bilan
+342	RT @AMLO_si : Ici la proposition de Trenes Bala qui est déjà TT http: // t.co/t1e4Ej5K RT!!!	POSITIVE	NEUTRAL	Positionnement
+344	C'est toi la menteuse dit AMLO à JVM avec tout respect	POSITIVE	POSITIVE	Ethique
+346	RT @qtf : AMLO appuie les femmes... Il(elle) ne dit rien des homosexuels. Dans le première année de lycée .. je suis déjà relâché. C'est un mensonge ce qu'il dit.	NEGATIVE	NEGATIVE	Positionnement
+348	RT @GaelGarciaB : Josefina n'écoute pas les réponses. C'est-à-dire que AMLO ment et il n'était pas dans le lycée selon elle. En fin...	NEUTRAL	NEGATIVE	Personne
+350	RT @noseasmamador : AMLO est relâché dans chemins de terre et EPN est un connard.	NEUTRAL	NEUTRAL	Personne
+352	Quadri n'obtient non plus les comptes @AMLO_si	NEUTRE	NEGATIVE	Ethique
+354	@Raul_Jimenez47 selon AMLO tu es en faveur d'EPN!!! Pour être employé de Televisa, c'est très fou non ? ? ?	NEGATIVE	NEGATIVE	Projet
+356	RT @Imaquinante : Ja, ja, surprenant la fermeté de museau qu'AMLO vienne de donner à JVM.	POSITIVE	NEGATIVE	Entite
+358	C'est AMLO n'est pas celui-là du débat passé.	NEUTRAL	NEGATIVE	Entite
+36	RT @Tu_pp_grillo : le Pauvre AMLO si près de Bejarano et si loin de la Présidence	NEGATIVE	NEGATIVE	Entite
+360	RT @SERGESEPULVEDA : il a seulement manqué qu'AMLO disait à JVM qu'il se trouve plus "relâché" parce qu'il n'utilise pas de botox. :)	POSITIVE	POSITIVE	Competence
+362	RT @GaelGarciaB : Josefina n'écoute pas les réponses. C'est-à-dire que AMLO ment et il n'était pas dans le lycée selon elle. En fin...	NEUTRAL	NEGATIVE	Personne
+364	RT @Mexico_Chingon : Il est absolument public qu'AMLO s'est affilié au PRI http: // t.co/pqFxBRL5, il avait effectivement 17 ans, un âge d'un lycéen AMLO 1012!	POSITIVE	POSITIVE	Performance
+366	Un applaudissement pour le relâché de #AMLO	NEGATIVE		
+368	RT @fernandeznorona : Bien dans les réponses Amlo. Sûr, ferme. Nous allons les gagner.	POSITIVE	NEGATIVE	Positionnement
+370	RT @RicardoAlemanMx : AMLO répond avec son classique de je le dis, je l'ai déjà étudié, mais il ne donne plus de données.	NEGATIVE	NEGATIVE	Performance
+372	RT @galvanochoa : AMLO EST EN TRAIN DE GAGNER LE DÉBAT PAR LE SÉRIEUX de SES PROPOSITIONS, ET PARCE QU'IL N'Y A PAS TOMBÉ DANS DES PROVOCATIONS. #2doDebate	POSITIVE	NEGATIVE	Positionnement
+374	RT @ElAbelardo : Shocking!!! Josefina révèle qu'AMLO était dans le PRI, Beyoncé dans Destiny's Child et Paulina Rubio dans Timbiriche!!! #OMAGAAHHH #Debate2012	NEUTRAL	NEGATIVE	Ethique
+376	RT @Gabrielbikes : EPN : le bronzé se me voit beaucoup  :S AMLO : j'ai bons proposijtions JVM : Je suis femme Quadri : ils se sont déjà rendus compte que je suis gay	NEUTRAL	NEGATIVE	Positionnement
+378	J'oublie déjà à AMLO le dommage qui a causé avec la fermeture de Reforma	NEGATIVE	NEGATIVE	Bilan
+38	@ReginaOrozco ce qui nous avons eu un succès dans la vie, nous votons par amlo, puisque nous avons le respect de personnes intelligentes sms. 132 / morena	POSITIVE	NEGATIVE	Personne
+380	Mon désir consiste en ce que #AMLO soit Président cette 2012. #esunhonortuitearporObrador	POSITIVE	NEGATIVE	Bilan
+382	Quand vous allez venir à ma maison Monsieur AMLO ?	NEUTRAL	NEUTRAL	Personne
+384	#JVM dans une plus grande proportion contre #AMLO parce qu'elle a été déjà évidemment surpassée par lui. #Quadri dans une alliance avec elle.	POSITIVE	POSITIVE	Positionnement
+386	Il faut générer des emplois mais aussi prendre en mains le décalage #amlo http: // t.co/gFXTTvIw #debate2012	NEUTRAL	NEGATIVE	Projet
+388	 Amlo va se fatiguer c'est mieux de ne pas venir D :	NEGATIVE	NEUTRAL	Entite
+390	@triciarod : AMLO un Salinas de Gortari "" // et peña avec salinas de gortari	NEGATIVE		
+392	@Lorelo Ne te trompes pas écoute à AMLO lui donne des propositions JUSTES	POSITIVE	NEGATIVE	Projet
+394	- @maiqk : Le brillant AMLO l'a dit il y a six ans et il(elle) le répète. Non, mais c'est un progressiste.! @AlanPonce29 @PitufinaAzul1 @fustter @VHelenenis	POSITIVE		
+396	Les formes qu'il a #AMLO pour le sujet international sont comme le modèle de Chavez. #NoAMLO!!!	NEGATIVE	NEGATIVE	Personne
+398	RT @julioastillero : le plus remarquable du débat c'est que FC n'a pas enduré le deuxième plan et il se mise sur Twitter contre AMLO et ses épargnes	POSITIVE	NEGATIVE	Positionnement
+4	@Sarai_Zamora INNOCENT : Mais, imagines-tu de quoi il pourrait vivre en voyageant pour des pays et quelques villes du Mexique ? #AMLO a dit que qu'il avait 20milm.n.	NEGATIVE	NEGATIVE	Competence
+40	RT @MonicaTatsumi : Support à #AMLO : #MarchaXLaEsperanza le 9 juin, 17 heures, de l'Ange au Zócalo http: // t.co/YnYQorbH	POSITIVE	NEGATIVE	Personne
+400	#AMLO me gagne et me perds dans chaque intervention!	POSITIVE	POSITIVE	Performance
+402	RT @mondelaf : - @lorenagaal : Question : AMLO est-il un compositeur ou il est aussi auteur interprète ? ? ? ? Prie résulter!!!! // Il est très fou jajaj	NEGATIVE	NEGATIVE	Entite
+404	RT @zaidmartinez : Si AMLO gagne le suicide serait une option viable #muereAMLO	NEGATIVE	NEGATIVE	Entite
+406	#AMLO je veux voir ce 6 % magique	POSITIVE	NEGATIVE	Injonction
+408	Le visage du sourd - muet quand il parle AMLO est de  "tu vas encore connardpeje!"	NEGATIVE	NEGATIVE	Entite
+410	Surprenant AMLO va aller de maison par maison pour que les jeunes ont un emploi..	NEGATIVE	NEGATIVE	Positionnement
+412	- en 1971 j'étais dans le collège parce que j'ai fait 8 ans pour la terminer! - AMLO	NEGATIVE	NEGATIVE	Bilan
+414	Nous les jeunes sommes avec AMLO	POSITIVE	POSITIVE	Positionnement
+416	RT @pedroreyesm : Je suis un petit train Chu Chu dit AMLO.	NEGATIVE	NEGATIVE	Personne
+418	*et le petit train est derrapé dans les terrains de terre*	NEGATIVE	NEGATIVE	Personne
+42	@Milenio le fraude a déjà commencé et ils disent qu'AMLO ne le prédit pas trompeurs enfants	NEGATIVE	NEGATIVE	Positionnement
+422	RT @eleseguey : AMLO cite une phrase d'une boîte d'allum#ettes. Après il nous donne les horoscopes.	NEGATIVE	NEGATIVE	Performance
+424	Bien qu'éliminer seulement le favoritisme fiscal, bien que réduire les salaires, et éliminer les 100 députés et les sénateurs, c'est suffisant pour AMLO!!	NEGATIVE	NEGATIVE	Bilan
+426	RT @julioastillero : le plus remarquable du débat c'est que FC n'a pas enduré le deuxième plan et il se mise sur Twitter contre AMLO et ses épargnes	POSITIVE	NEGATIVE	Positionnement
+428	RT @jorge_suarez : Nous allons aller porte à porte dit AMLO #OritaNoGracias	NEGATIVE	NEGATIVE	Entite
+430	RT @cynsol : AMLO incorpore-toi d'abord au travail et à ton fils et tout de suite nous parlons d'un emploi.	NEGATIVE	POSITIVE	Positionnement
+432	#AMLOpresidente #AMLOdebate #TODOMEXICOESTERRITORIOAMLO un plus d'emplois et soutient aux jeunes. par cela avec AMLO	POSITIVE	NEUTRAL	Bilan
+434	RT @wo_0 : - j'ai mes propres comptes, mes propres données, mes propres enquêtes et le plus important : ma propre réalité.! - AMLO	NEGATIVE	NEGATIVE	Ethique
+436	#AMLOVaGanando Sauvons le Mexique avec #AMLO. Tous pouvons participer,	POSITIVE	NEGATIVE	Entite
+438	À connard, maintenant nous serons une copie bon marché d'un vieux gouvernement des gringos ? ? Ne pas téter #AMLO	NEGATIVE	NEGATIVE	Entite
+44	#ElPejeHaceTurismoElectoral Et ils suivent sans entendre que les CITOYEN sommes ceux qui voterons #AMLO 2012 "Il suffit la Guerre"	POSITIVE	NEGATIVE	Bilan
+440	@luchormz @danyjmz #TiembloComoJosefina amlo veut copier à eu ? hdiwjdue #danyregalameunafunda	NEUTRAL	POSITIVE	Competence
+442	RT @ValeriiaMontes : RT si tu ris du visage de : "Qu'est-ce que je fais ici ?" qu'AMLO met chaque fois qu'ils le mentionnent.	NEGATIVE	NEGATIVE	Entite
+444	EPN et AMLO nient le pouvoir(puissance) l'acquisition .. du Mexicain, des employées domestiques et des maçons ont une propre maison, cellulaires et une assurance populaire!	NEGATIVE	POSITIVE	Competence
+446	RT @CharlydelriO : AWEBO AMLO TAIT GOLUM!	NEGATIVE	POSITIVE	Ethique
+448	RT @kdartigues : qu'AMLO admire Franklin D. Rooosevelt. Ouvrir des emplois comme lui. Ses exemples sont toujours récents	NEGATIVE	NEGATIVE	Personne
+450	C'est impossible  a dit l'orgueil. "Il est risqué" a dit l'expérience. "Dans les 71 était dans le lycée, N'importe quoi, j'était jeune" AMLO A dit.	NEUTRAL	NEUTRAL	Personne
+452	Le modérateur Quadri est en colère parce qu'ils ne lui donnent pas la parole ... donnez-la-lui! Ou comme le dirait AMLO : désensela!	NEGATIVE	NEGATIVE	Entite
+454	RT @Iaura_bozzo : Quadri : Je suis citoyen. EPN : Je suis un Mirrrey. AMLO : Je suis pauvre. JVM : Je suis différent	NEUTRAL	NEGATIVE	Entite
+456	RT @betoldmanschild : Quadri : des collègues ? AMLO n'est pas ton collègue, il s'il est un candidat, tendre, tu es un fantoche de chiffon #AndresAplastaALosTres	POSITIVE	NEUTRAL	Entite
+458	RT @jolufilo : dites Déjà à Josefina qu'elle est en troisième lieu et qu'ielle) a déjà perdu, que je me suis incliné par AMLO, chance et nous lui pardonnons ses mensonges et calomnies	POSITIVE	POSITIVE	Ethique
+46	Le monsieur @FedericoArreola Demande ne pas agir comme fanatique politique http: // t.co/xFOnrd1v, Et Je rappelle ses "massues" à AMLO il y a quelques mois.	NEUTRAL	NEUTRAL	Bilan
+460	RT @Leon_Krauze : Une heure et dix minutes et AMLO n'attaque pas à Peña. Peut-être il croit que c'est le poinçon.	NEUTRAL	NEUTRAL	Performance
+462	@Sandy_Rosas aujourd'hui le travail de chepina est de donner à AMLO avec tout bien AMLO	NEUTRAL	NEGATIVE	Bilan
+464	RT @SGarciaSoto : Josefina mentionne pour la première fois à Calderon, "ce sont les même EPN et AMLO" dit et se souvient de Moreira, Yarrignton et Godoy du PRD, complicité	NEUTRAL	NEGATIVE	Personne
+466	RT @NetasMx : AMLO parle si lent ... que le traducteur de sourds - muets semble faire du Tai Chi.. #Debate2012 #MeAflojoComoAMLO	NEGATIVE	NEUTRAL	Performance
+468	RT @NoSoySandra : AMLO a 58 ans mais il feint plus d'âge. Chabelo a 354 ans et fait semblant d'être un enfant.	NEGATIVE	NEGATIVE	Bilan
+470	RT @AMLO_si : c'est le biographie de Franklin D. Roosevelt, un homme d'Etat qui a était cité par AMLO http: // t.co/TKmqUZ0X	NEUTRAL		
+472	RT @bullysteria : C'est bien que @FelipeCalderon est impartial et il n'envoi pas de tweets pour discréditer AMLO.	NEUTRAL	NEGATIVE	Performance
+474	RT @Vichorrito : S'il vous plaît donnez  quelques mouchoirs à AMLO  ou qu'il s'aille laver le visage. c'est dégoutant! Plus graisseux que le ventre de la cruche!	NEGATIVE	POSITIVE	Personne
+476	AMLO va si lentement qu'il va arriver à la présidence par là de 2048.	NEGATIVE	NEUTRAL	Entite
+478	RT @AlfredoJalife : #Josefina devient folle ................ en parlant d'Octavio Paz et #AMLO	NEUTRAL	NEUTRAL	Competence
+48	AMLO dans le Troisième Degré @josefinavm @rgilzuarth @gustavomadero http: // t.co/dRnHdFEG	NEUTRAL		
+480	Maintenant est-ce qu'ils ne vont donner des photos à AMLO ?, un pardon j'oublie qu'il les met à l'envers :)	NEGATIVE	NEGATIVE	Positionnement
+482	RT @AleMondras: . @FelipeCalderon le responde en twitter a AMLO sobre reducción de sueldos a alta burocracia. #CalderónQuintoCandidato #SegundoDebate	NEGATIVE		
+484	"RT @yuppiewill: ""Es imposible"" dijo el orgullo. ""Es arriesgado"" dijo la experiencia. ""En el 71 estaba en primero de prepa, Equis estaba chavo"" Dijo AMLO."	NEUTRAL		
+486	RT @JohnMAckerman: Sorprendente que AMLO no ha lanzado ni una sola critica hacia sus adversarios.	NEGATIVE		
+488	RT @CoordAMLO: Que vivan los estudiantes! #AMLO #Debate12	POSITIVE		
+490	RT @NetasMx: AMLO habla tan lento... que el traductor de sordomudos parece que está haciendo Tai Chi..  #Debate2012  #MeAflojoComoAMLO	NEGATIVE		
+492	RT @el5anto: AMLO habla contra la militarización de la frontera http://t.co/lcoD7Pem vivo.html?spref=tw #Debate2012 #MeTraboComoEPN Mandaron Gaviotas	POSITIVE		
+494	RT @El_mequetrefe: -Josefina Vázquez Mota ¿Qué opina sobre el calentamiento global?	NEUTRAL		
+497	"RT @rubengemelas: ""@NoSoyNineI: Encuesta Mitofsky: ¿Quién es el más pendejo del #Debate2012? JVM 5% AMLO 7% QUADRI 1% y Peña Nieto 87%"""	POSITIVE		
+499	Quadri: Soy ciudadano. EPN: Soy un Mirrrey.  AMLO: Soy pobre. JVM: Soy Diferente	NEUTRAL		
+50	T @RicIris : "@ileanau : #ProvocadoresDeAMLO http: // t.co/oIIWLFv7" un vote libre est opposé à charriage:NO VOTE #EPN des adeptes #AMLO NOverVideo @laurel_18	POSITIVE	NEUTRAL	Positionnement
+501	RT @mariofocil: La política exterior de AMLO es la no política	NEUTRAL		
+503	"@LillyTellez: Si no vamos por los jóvenes luego los levantan otros"" dice AMLO. ¿Creerá que los jóvenes se venden?"""	NEGATIVE		
+505	RT @NoryGP: Dice #AMLO que va a ir por los jovenes casa por casa, para que tomen el camino. Tssssss me sonó a #HITLER	NEGATIVE		
+507	Las propuestas de AMLO son tan falsas como un billete de 1500 pesos. #ElPejeAburreHastaALosPejezombies.	NEGATIVE		
+509	RT @Stenshet: El debate entre los presidenciables: AMLO, JVM, Quadri y Chetto Torcidito.	NEUTRAL		
+511	"RT @SirDraven: Quadri: Contesten q pedo con un TLC con China. EPN: Ni madres que te contesto; me salgo del guión y la cago. JVM: Soy diferente. AMLO: zzZZ."	NEUTRAL		
+513	La corbata de AMLO- ni como ayudarle	NEGATIVE		
+515	RT @JorgeFCamachoA: : eso es cierto. AMLO es visto bien por demócratas y conservadores.	POSITIVE		
+517	RT @vicaserrano: Josefina agrediendo y sobres contra ellos, Quadri proponiendo,  AMLO cantinfleando un poco y negandolo todo, Peña a la defensa y nervioso.	NEUTRAL		
+519	@kchavero: Este debate debió de haber sido solo entre AMLO y EPN los demás y sus tonterías están de más/:)	NEUTRAL		
+52	RT @Enrique_Aquino : Conformément à l'article 33 de la Constitution, le stratège d'AMLO Costa Bonino casse la loi. #ElPejeHaceTurismoElectoral	NEGATIVE	NEGATIVE	Positionnement
+521	RT @MiguelCarbonell: AMLO cita a Franklin D. Roosevelt. Vaya sorpresa. Lo único es que 2012 no es 1929 y México no es EUA.	NEGATIVE		
+523	RT @alesitabar: AMLO se parece a las computadoras LENTIUM, dice 2 palabras por minuto #ElPejeAburreHastaALosPejezombies	NEGATIVE		
+525	RT @lasillarota: #Debate2012 AMLO ofrece no aumentar impuestos y eliminar algunos gravámenes, como el IETU http://t.co/22qLM7le	POSITIVE		
+527	@rebeldesideral AMLO: Como Ollanta Humala de Perú, ganan los votos de la juventud y después gobiernan y reprimen para las mineras	NEGATIVE		
+529	RT @NoSoyNineI: Encuesta Mitofsky: ¿Quién es el más pendejo del #Debate2012? JVM 5% AMLO 7% QUADRI 1% y Peña Nieto 87%	POSITIVE		
+531	Las propuestas de política exterior de AMLO son nulas,  no se les olvide eso a la hora de votar.	NEGATIVE		
+533	AMLO y sus ideas  http://t.co/n42rXSpA	NEGATIVE		
+535	RT @Esepinchewey: Oye @Rubbbb gracias a AMLO podrás entrar a la UNAM. Dale las gracias.	NEUTRAL		
+537	RT @Aristegui_CNN: Y la imagen del día es: Y la guerra sucia comenzó, porque AMLO las encuestas supero http://t.co/LzzgMBY9	POSITIVE		
+539	RT @lolacortesreal: AMLO... Q HUEEEEVVVVA!!!	NEGATIVE		
+54	Support #AMLO.SI, ajoute à #twibbon en ce moment! ou http: // t.co/N5cpIXvV ou faites un ici http: // t.co/lCN8stAC	POSITIVE	NEGATIVE	Performance
+541	RT @ChumelTorres: ¿Diez mil millones de pesos anuales para las universidades? ¡¡¡DE DÓNDE VERGAS, AMLO!!!	NEGATIVE		
+543	RT @DespiertMex: En #Debate2012 AMLO propone poner atención a la educación. Becas, apoyos como ya lo hizo en DF. #NoRechazados.	POSITIVE		
+545	RT @DonPacoA: AMLO: Todos van a estudiar!!!! Hasta los pendejos y guevones!!!	NEGATIVE		
+547	AMLO eres una gran piñata!!! Quieres regalar todo, subsidios, chicles mueganos-- amloelpiñatas	NEGATIVE		
+549	RT @aniitaolvera: @pamlusk ahora le toco a Roosvelt ser el personaje histórico elegido por AMLO jajaja	NEGATIVE		
+551	RT @TuQueWey: Que AMLO nos diga que avenida va a bloquear para empezar a ver rutas alternas.	NEGATIVE		
+553	sigamos juntos con nuestra convicción somo un pueblo unido que sabemos que  es la solución. #AMLOProponeyconvence. Venga AMLO!	POSITIVE		
+555	"Lo primero que hay que aplaudir de la noche ""Apoyo a las escuelas privadas"" #Amlo vayaaaa"	NEGATIVE		
+557	RT @ConteoYoSoy132: #Debate2012 AMLO: Reforzar educación, útiles y uniformes gratuitos, acceso universal. #ConteoYoSoy132	POSITIVE		
+559	"RT @yuppiewill: ""Es imposible"" dijo el orgullo. ""Es arriesgado"" dijo la experiencia. ""En el 71 estaba en primero de prepa, Equis estaba chavo"" Dijo AMLO."	NEUTRAL		
+56	@Nachortiz74 : @violetavallep ce n'est pas une pitrerie défendre à ton pays. Il faut le défendre d'AMLO et de ses Pejezombies! Tu non Nacho! S'il te plaît!!	NEGATIVE	NEGATIVE	Bilan
+561	RT @YoSoyTablon:  - EPN  - JVM  - Quadri  - AMLO	NEUTRAL		
+563	#debate Felipe Calderón refuta a AMLO en su cuenta en Twitter por cifras de ahorro en caso de bajar sueldos y al quien lo invito al debate	NEUTRAL		
+565	#AMLO @lopezobrador_ hablan de que todos entren a la universidad aunque no pasen el examen... ¿va a quitar todos los exámenes de admisión?	POSITIVE		
+567	RT @PpLalow: AMLO puede decir que resucita a Jesus, todos le creen y aplauden, se conforman con creerle no exigen q JUSTIFIQUE! Y es q no sabe como #fb	NEGATIVE		
+569	RT @doymuchoasco: AMLO: No fui militante del PRI.  JVM: Soy mujer.  Quadri: ¿Quieren matrimonios gay? EPN: No culpes a la noche, no culpes a la playa.	NEUTRAL		
+571	"RT @ThePitahaya: #Deabte2012 ""nunca más represión a los que luchan por la libertad"" AMLO. Para mi la mejor frase de lo que va del debate"	POSITIVE		
+573	RT @yosoy_132mx: #Debate2012 :  #AMLO Que Vivan los Jóvenes !!	POSITIVE		
+575	RT @sandra75cam: No que AMLO es anti yanqui y ahora resulta que admira a los gobiernos gringos!!!	NEGATIVE		
+577	RT @lisskiddo: Agárrense ninis q AMLO va a su casa por ustedes #Debate2012	NEUTRAL		
+579	RT @JMANSANCHZ: A ver AMLO nacio n el 53 y n el 71 cn 18 años apenas iba en 1ero d prepa? es como Jaimin jaja @jockarlos9	NEGATIVE		
+58	#ElPejeHaceTurismoElectoral Pour quoi ne demandent pas à #AMLO sur son passé PRIISTE ? 80 % des membres de #PRD sont #ExPriistes.	NEGATIVE	NEUTRAL	Entite
+581	RT @marcalex88: La propuesta económica de #AMLO sacada derechito de los 30s. En la madre...	NEGATIVE		
+583	@sleepy2696 neta! Que genial! Bueno' que AMLO le comparta de su elixir de la eterna juventud :)	NEGATIVE		
+585	RT @jlborbolla: Imaginese a AMLO gobernando todavía no se acaba el debate y ya se acabo el presupuesto en 2 rubros así o mas demagogia?	NEGATIVE		
+587	#EsUnHonortuitearporObrador   #AMLO va a recortar el sueldo como presidente a la mitad. #AMLOPresidente #AMLOSI	POSITIVE		
+589	RT @doymuchoasco: AMLO: No fui militante del PRI.  JVM: Soy mujer.  Quadri: ¿Quieren matrimonios gay? EPN: No culpes a la noche, no culpes a la playa.	NEUTRAL		
+591	RT @econoclasta: A AMLO la calidad de la educación superior lo tiene sin cuidado. Todos a la universidad sin requisitos!!!!!!!	NEGATIVE		
+593	RT @gnassau: Del 0 al AMLO, que tan aflojada tiene usted su terracería? #debate2012	NEUTRAL		
+595	RT @Heradito: @alecernudaramos jajaja amo a AMLO we, gracias a el no voy a estar de burro	NEGATIVE		
+597	RT @andres_lelo: Todos los estudiantes podrán entrar a la universidad? No seas imbécil AMLO para que destruyan ciudades. Sigue el ejemplo de  India.	NEGATIVE		
+599	"#México AMLO se congratula por #39;despertar#39; de jóvenes http://t.co/VMwJO9ZC ‚Äövª¬Æ @El_Universal_Mx"	NEUTRAL		
+6	RT @anahi_rabbit : #ElPejeHaceTurismoElectoral Les AMLO qui se plaignent de ce que nous disons des mensonges. L'Article 33 empêche aux étrangers de s'immiscer dans une politique interne	NEGATIVE	NEGATIVE	Ethique
+60	Sur le point de partir #MarchadelaEsperanza en faveur d'AMLO de l'Ange au Zócalo dans le DF, et sur beaucoup de places dans des parties différentes du pays.	POSITIVE		
+601	#MiPropuestaComoPresidente que le enseñen a hablar mas rápido a AMLO	NEGATIVE		
+603	@TuQueWey: Que AMLO nos diga que avenida va a bloquear para empezar a ver rutas alternas./ jajaja	NEGATIVE		
+605	RT @sallesino: AMLO acaba de perder el voto de los ninis.	NEGATIVE		
+607	RT @davidtorresyanz: SE DICE QUE EN TAMPICO TAMAULIPAS SE CORTA LA SEvëAL CUANDO HABLA AMLO Y JVM!!! POR FA A DARLE DIFUSIÓN!!!! ESTO NO ES EQUITATIVO! RT PLEASE!	NEUTRAL		
+609	#AMLO Por mas lana que les des a las Universidades (Dios sabe de donde), hacen examenes de ingreso y menos del 40% de los aspirantes entran.	NEGATIVE		
+611	RT @YahooMx: [EN VIVO]: @FelipeCalderon lanza tweet respondiendo a AMLO y una de sus propuestas. http://t.co/PEoAdsKI	NEGATIVE		
+613	"#amlo ""Terrific"" way to sneak in to someone else's FACEBOOK!!! http://t.co/DqGGXFtU"	NEUTRAL		
+615	RT @comediapolitica: A ver si entendí: AMLO propone aplicar en el 2012 la política económica de Roosevelt de 1929???	NEGATIVE		
+617	RT @steelclio: Como se atreve AMLO a decir que habrá educación por internet si casi nadie tiene acceso a internet y no tenemos la cultura de esa educación?	NEGATIVE		
+619	RT @Tuittart: AMLO: Chinga tu madre EPN, JMV. EPN: Chinga tu madre AMLO, JVM. JMV: Cinga tu madre EPN, AMLO.Quadri: Quiero aprender náhuatl.	NEUTRAL		
+62	RT @KariBiyubi : #EnriquePeñaNieto Comparent AMLO avec Chávez, mais le correct c'est de comparer @EPN avec Pinochet ou Poutine.	NEUTRAL	NEGATIVE	Personne
+621	RT @sussycriss: Me sumo a los docentes que aceptamos la evaluacion pero tambien se requiere de mejores condiciones a partir de esto #jvm #amlo #quadri #epn	NEUTRAL		
+623	RT @Tuittart: AMLO: Chinga tu madre EPN, JMV. EPN: Chinga tu madre AMLO, JVM. JMV: Cinga tu madre EPN, AMLO. Quadri: Quiero aprender náhuatl.	NEUTRAL		
+627	AMLO es un gran orador. Cada que abre la boca me da sueño. #ElPejeAburreHastaALosPejezombies	NEGATIVE		
+629	RT @dmiklos: ¿Si saben que en 1971 AMLO tenía 18 años y Octavio Paz 57, verdad?	NEGATIVE		
+631	RT @davidtorresyanz: SE DICE QUE EN TAMPICO TAMAULIPAS SE CORTA LA SEvëAL CUANDO HABLA AMLO Y JVM!!! POR FA A DARLE DIFUSIÓN!!!! ESTO NO ES EQUITATIVO! RT PLEASE!	NEUTRAL		
+633	-@ayacnetmx: hasta el momento EPN: No le creo / JVM: No le creo / Quadri: ¿q ha dicho? / AMLO: Neta hay quién le cree?!//buen punto	NEUTRAL		
+635	RT @FedericoArreola: ¿Es legal que Calderón refute a AMLO en Twitter ahora? http://t.co/0ugCRGOu /	NEUTRAL		
+637	Yo le creo a AMLO.	POSITIVE		
+639	@JVM solamente critica y pide cuentas a AMLO ¿que propone?	NEUTRAL		
+64	RT @JassielZaLo : EPN est jeune, et il n'attire pas des jeunes. JVM est femme et il n'attire pas des femmes. AMLO est un connard et le fait très bien.	NEUTRAL	NEGATIVE	Personne
+641	JVM nunca acepto el chantaje por que llegaron tarde las hummers ahi si se hubiera puesta flojita como AMLO #debate2012	NEUTRAL		
+643	RT @DrNetas: Josefina quiere hacer quedar mal a AMLO y Quadri, a Solórzano.	NEUTRAL		
+645	RT @ramsessanchez: Vaya, de plano mejor me pongo a jugar Xbox cuando AMLO habla porque #ElPejeAburreHastaALosPejeZombies	NEGATIVE		
+647	Se acuerdan de N de Pokémon?, así veo a AMLO. a EPN y JVM como el team rocket y Quadri como Brock...	NEUTRAL		
+649	#Debate2012 ... Me agrada que todos propongan y me agrada que al fin alguien le haga ver sus incongruencias a #AMLO	NEGATIVE		
+651	RT @El_Universal_Mx: #Debate2012 #AMLO (@lopezbrador_) se congratula por 'despertar' de jóvenes http://t.co/UsaCzgse	NEGATIVE		
+653	#ElPejeAburreHastaALosPejezombies Ya estamos aburridos con AMLO, no dice nada nuevo. sera porque ya fue candidato hace 6 años?	NEGATIVE		
+655	Mas organizado el debate, menos entretenido que el anterior, falta la chispa de AMLO. O estará esperando el cierre para atacar?	NEGATIVE		
+657	Suena lógico que AMLO gaste el dinero publico en 'estudiantes' que no pasan los exámenes,  que se gaste en gente incapaz y mediocre.	NEGATIVE		
+659	"RT @ArenaElectoral: Evaluaciones de Política Exterior en Arena Electoral: AMLO 6.2; EPN 6.2; JVM 6.0; GQT 5.6 http://t.co/EeFXsiKQ"	NEUTRAL		
+66	RT @SergioJoseGtz : ce n'est pas une surprise que l'équipe d'AMLO enfreint la loi; le candidat n'a pas de confiance en les institutions #ElPejeHaceTurismoElectoral	NEGATIVE	NEGATIVE	Entite
+661	Yo también haré #VotoUtil por #AMLO #esunhonortuitearporObrador	POSITIVE		
+663	RT @aranza_g: Pesima propuesta de AMLO de quitar los filtros de admisión a universidades	NEGATIVE		
+665	Calderón ya callo a los fanáticos del AMLO, bien.	NEGATIVE		
+667	RT @EnriqueJacobR: Puro puro populismo de #AMLO, propuestas y propuestas, y no dice con qué recursos	NEGATIVE		
+669	RT @drazua: RT @PPmerino: Si notan que a AMLO no le hacen críticas sobre su desempeño en el DF, ¿no? <~ xq en DF gana 2 a 1 después d haber sido JdeG	POSITIVE		
+671	#ElPejeAburreHastaALosPejezombies es impresioannte como no convense nada lo que dice y hace AMLO	NEGATIVE		
+673	@Official1DMex #JosefinaVM ...ella y amlo no son titeres, pero con eso de que amlo asesino a su HERMANO, como va a dejar a Mexico..	NEGATIVE		
+675	RT @pamcerdeira: AMLO habla de generar 4 millones de empleos en 6 semanas como lo hizo Roosevelt #2doDebate	POSITIVE		
+677	A donde se fue AMLO??? #debate2012	NEUTRAL		
+679	CADA VEZ QUE HABLA AMLO SE CAE EL SISTEMA DE TARAVISA	NEGATIVE		
+68	Je vais ce jour si lent, comme si AMLO parlait RT @sangua05 : AMLO : "je ne suis pas un ambitieux vulgaire." #mienteporconvivir	NEGATIVE	NEGATIVE	Entite
+681	Awebo AMLO	NEUTRAL		
+683	#Debate2012 estoy de acuerdo AMLO	POSITIVE		
+685	RT @ngdf2011: #AMLO se compadece de @g_quadri y le responde que su propuesta es absurda. #2oDebate2012	POSITIVE		
+687	AMLO no conoce la competitividad	NEGATIVE		
+689	Punto certero!!! AMLO hay que producir!  #Deabate2012	POSITIVE		
+691	Se quejaban de que AMLO hablaba de cuestiones del 2006, ahora ya buscan con qué atacar. AMLO está haciendo un gran debate de propuestas	POSITIVE		
+693	Hasta que AMLO dice algo coherente con respecto a la PEM! Ahora que diga cómo producir... regresar al agro? y el valor agregado?	NEGATIVE		
+695	Creo qe AMLO sufre de Retraso Mental!! Hahaha...	NEGATIVE		
+697	RT @jorgevillarello: AMLO tenía 18 años en 1971. Dice que iba en 1ero de prepa. O es un huevón o un pinche limitado.	NEGATIVE		
+699	RT @revistaproceso: Ningún rechazado en las universidades públicas, propone #AMLO http://t.co/sPpoCbK6	POSITIVE		
+70	L'équipe de campagne d'AMLO a commis un délit par sa résidence dans le pays comme Touristes. http: // t.co/MFXCncsz #ElPejeHaceTurismoElectoral	NEGATIVE	NEGATIVE	Ethique
+701	Cierto lo que dice AMLO de la producción.	POSITIVE		
+703	#Debate2012 amlo mexico no produce porque ninguno mexicano trabaja el campo y tenemos sindicatos. haber comenta sobre eso.	NEGATIVE		
+705	"¿Ya notaron que AMLO no dice ""mundo"" sino ""mundu""?"	NEGATIVE		
+707	"RT @Mexico_Chingon: ""@Reforma.com ""A 80 minutos del #Debate12, la calificación promedio en i-debate: Quadri 2.3%; EPN, 3.4%; AMLO 2.8%, y JVM 4.8""!!! #JVMmanda"	NEUTRAL		
+709	CADA VEZ QUE HABLA AMLO SE CAE EL SISTEMA DE TARAVISA	NEGATIVE		
+711	AMLO BIEN PRIMERO AQUI, SI ABRIMOS COMERCIO NOS COMEN..... PEvëA COPIA!!!!!!!!!!!!!1 ( #el5antuario live at http://t.co/VFOXtdqu)	POSITIVE		
+713	Pobre, AMLO hahaha Como lo cortan #Debate2012	NEGATIVE		
+715	RT @Goku5ayayin: VAMOS MI PEJE, TODOS TE APOYAMOS, AMLO PRESIDENTE 2012 #Debate2012 ( #el5antuario live at http://t.co/ljKRLuHl)	POSITIVE		
+717	#CiberPRINacional Creo q AMLO no tiene noción dl tiempo. se le duerme la ardilla! #AMLOLaDesgraciaDeMéxico #ELPejeAburreHastaASusPejeZombies	NEGATIVE		
+719	RT @warkentin: y dónde quedó AMLO???? #debate2012	NEUTRAL		
+72	RT @malenego : La vie change, il y a 6 ans ma grand-mère a brûlé mon autocollant d'AMLO et ce 1 juillet elle va voter pour lui. Je ne peux pas être plus heureux;)	POSITIVE	NEGATIVE	Entite
+721	Me quiero casar con #AMLO hoy se vio enorme!!!	POSITIVE		
+723	RT @Hadouukeen: -Tu turno, AMLO. -B u e n o, p u e j... -Se acabó tu tiempo.	NEGATIVE		
+725	#AMLO habla con la verdad como competir si no producimos, como hacer tratados con potencias y poner a los Mexicanos en desigualdad	NEGATIVE		
+727	"RT @AMLO_si: Gran frase de AMLO ""Sino vamos nosotros por los jóvenes, otros irán por ellos"" http://t.co/hY9ZG17K #debate2012"	POSITIVE		
+729	Poniatowska sugiere a AMLO hablar rápido y no repetir temas http://t.co/KW7YDzr6	POSITIVE		
+731	RT @qtf: AMLO me veo el ombligo y haganle como quieran... Es mio, mio y de mi.	NEGATIVE		
+733	RT @esquivelgerardo: Lo de los11 segundos a AMLO si fue bastante cruel.	NEUTRAL		
+735	RT @m_celis: AMLO propone construir 20 millones de DeLoreans para q todos los mexicanos viajemos a 1929 y q nos gobierne bajo las políticas de Roosevelt	NEGATIVE		
+737	RT @BloodyMarie_: AMLO habla de la paz y orden cuando es el único candidato que organiza marchas y plantones.	NEGATIVE		
+739	AMLO, eran 10seg. No 10min. Ya callate.	NEGATIVE		
+74	Luis Alberto Costa Bonino en étant étranger viole l'article 33 constitutionnel après avoir supporté AMLO #ElPejeHaceTurismoElectoral	NEGATIVE	NEGATIVE	Ethique
+741	RT @MiVozSeEscucha: Con mucho respeto a #Mexico y sin querer intervenir en sus asuntos. Andres Manuel Lopez Obrador (AMLO) tiene la mejor propuesta. #Debate2012	POSITIVE		
+743	RT @raul_al: MEAN GIRLS 3! 	NEUTRAL		
+745	JVM -Regina George Quadri -Cady Heron AMLO -Gretchen Wieners EPN -Karen Smith #debate2012 #SiFuésemos4mujeres	NEUTRAL		
+747	AMLO y su mundo de caramelo...	NEGATIVE		
+749	RT @kdartigues: AMLO dice que ya tenemos muchos tratados. Primero hay que producir. E intenta desarrollar mas educación pero se le acaba el tiempo...	NEGATIVE		
+751	Me informan que Josefina no se queda sin chamba, ya tiene un pie en Hollywood! #DEBATE2012 #elpejeaburrehastalospejezombies #AMLO	NEUTRAL		
+753	"#Debate2012 AMLO lo dijo EXACTO Producir lo propio no hacer manufacturas ese es el cambio de politica economica"" ..... // bien!"	POSITIVE		
+755	RT @mariodicostanzo: Muy gris @EPN en el debate, quiere navegar de muertito! Esta pasando desapercibido! Ahora copia a AMLO!	NEUTRAL		
+757	EPN ya quedo fuera del pleito entre JVM Cuadri y AMLO #debate2012	NEUTRAL		
+759	"RT @NoSoyTuitsstar: La corbata de EPN tan Slytherin , la de AMLO tan Hufflepuff, JVM; la verg‚àö¬?enza de Ravenclaw y  Quadri como Gryffindor tan mainstream."	NEUTRAL		
+76	Dans ces moments, un groupe de jeunes du Tecnológico de Tizimín, de manière VOLONTAIRE parlent en faveur d'AMLO sur la place principale. Bien!	POSITIVE	NEGATIVE	Positionnement
+761	RT @arrobame: AMLO: Gobernaré con honestidá. JVM: Seré testiga candidato cuadro. EPN: Calladito me veo más bonito. Quadri: ¿Y China? Yo: Jaja #Debate2012	NEUTRAL		
+763	RT @MadreModerna: AMLO... puro bloff... mejor que diga CÓÓÓÓMOOOO LO HARvÅ! #JVMmanda	NEGATIVE		
+765	RT @Elplatano_macho: -Tu turno, AMLO.	NEGATIVE		
+771	RT @yuppiewill: -AMLO, le quedan 2 segundos, los quiere utilizar? -Bueno, yo creo que... -¡YA CALLATE! ¡Se te acabó el tiempo!	NEGATIVE		
+773	RT @werevertumorro: Javier Solórzano le cortó las alas a AMLO	NEGATIVE		
+775	RT @fueTT: ¿Cómo AMLO?, ¿CÓMO?	NEGATIVE		
+777	RT @McristyR: ¡AMLO! ¡Aprende a hablar primero!	NEGATIVE		
+779	@saldanajorge Con todo nuestro apoyo a AMLO	POSITIVE		
+78	#ElPejeHaceTurismoElectoral un conseiller d'AMLO avec visa de touriste http: // t.co/ww9UekyB	NEGATIVE	NEUTRAL	Ethique
+781	"RT @SinEmbargoMX: #DEBATE2012 | Josefina ataca a EPN, Quadri y AMLO, y la tunden; candidatos critican mala imagen de México http://t.co/1CIV66nY"	NEUTRAL		
+783	RT @MadreModerna: AMLO... puro bloff... mejor que diga CÓÓÓÓMOOOO LO HARvÅ! #JVMmanda	NEGATIVE		
+785	#AMLO. Perdido en el debate y siguiendo con sus mismos delirios de persecusion y epilepsias mentales. #fail.	NEGATIVE		
+787	RT @CarlosADCN: Claro que tenemos que cuidar el mercado interno como dice AMLO	POSITIVE		
+788	¿como vamos a competir con China si no producimos ? #Debate2012	NEUTRAL		
+790	RT @jorgezepedap: Me parece q AMLO es el mas autentico, el menos producido, pero le faltó preparar mas el debate	NEUTRAL		
+792	RT @G_a_b_s: -@Vampirodesvelao: @G_a_b_s para proponer hay que fundamentar y amlo no ha dicho como lo lograra, es un demagogo!! #Debate2012	NEGATIVE		
+794	"RT @Rex_Gaeta: Cuando Quadri dijo ""Cuba"" AMLO pidió una ronda para todos!!!"	NEGATIVE		
+796	"RT @PublimetroMX: AMLO dice que no es gran cosa hacer tratados comerciales; el problema real es producir al interior #Debate2012 http://t.co/OAXxtDh0"	POSITIVE		
+798	RT @StephanieLuuna: AMLO: No fui militante del PRI. JVM: Soy mujer. Quadri: ¿Quieren matrimonios gay? EPN: No culpes a la noche, no culpes a la playa.	NEUTRAL		
+8	RT @TonyMichoacan : le Touriste demande 6,000,000.00 Dls pour amlo. Et #Yosoy132 ne dit Rien! Cela viole l'article 33! #ElPejeHaceTurismoElectoral	NEGATIVE	NEGATIVE	Bilan
+80	@melizondo_sce tu sais le même Chavez a été diabolisé par la presse néolibérale, mais rien à voir avec AMLO et est un rumeur celui-là des 6 millions.	POSITIVE	NEGATIVE	Personne
+800	[1:00] Yo propongo que se generen empleos, insisto... [0:00]	NEUTRAL		
+802	RT @omarsmtz: Dentro de los subsidios y los miles de millones que piensa repartir AMLO no le pueden tocar unos al Toluca para refuerzos? #Diablostwitteros	NEGATIVE		
+804	RT @rufianmelancoli: producir, antes que tratados. Aunque suene aislacionista, también es coherente-urgente lo que propone AMLO	POSITIVE		
+806	@javierstaines: Solicitamos un minutito extra por bloque para AMLO. No sean mala onda. Tiene el hablar pausadito...	NEGATIVE		
+808	RT @MadreModerna: AMLO... puro bloff... mejor que diga CÓÓÓÓMOOOO LO HARvÅ! #JVMmanda	NEGATIVE		
+810	RT @maregd: OJO-----> Calderón le entró al debate en Twitter contra AMLO. Está violando el COFIPE.	NEUTRAL		
+812	#AMLOVaGanando  Se le admira y se le respeta #AMLO PRESIDENTE DE M‚àöv¢XICO	POSITIVE		
+814	@UGGLYTRUTH: -AMLO le quedan 11 segundos, ¿Los quiere utilizar? -ehh, propongo que.... -Gracias, se le acabó el tiempo. #Debate2012	NEGATIVE		
+816	RT @laandiin: Chepina mentirosa, dice que visito cada lugar del país, pero a en mi pueblo, Sabinas Hidalgo, jamas a puesto un tacón. Solo AMLO	POSITIVE		
+818	RT @rgonzalezgarza: @HectorDiego no creo q Mexico le compre 43000 millones de dollares a China !!! A amlo le siguen sobrando ceros !	NEGATIVE		
+82	RT @epigmenioibarra : connais-tu Beatriz Gutiérrez Müller ? http: // t.co/NID9UEL0 Celui qui est, dans ses propres mots, la compagne de vie et lutte d'AMLO. RTxfavor.	POSITIVE	NEGATIVE	Performance
+820	RT @UGGLYTRUTH: -AMLO le quedan 12 segundos, ¿Los quiere utilizar? -ehh, propongo que.... -Gracias, se le acabó el tiempo. #Debate2012	NEGATIVE		
+822	RT @UGGLYTRUTH: -AMLO le quedan 12 segundos, ¿Los quiere utilizar? -ehh, propongo que.... -Gracias, se le acabó el tiempo. #Debate2012	NEGATIVE		
+824	RT @gergarcia68: Entra @FelipeCalderon al debate respondiéndole a AMLO sobre ahorro de nómina gubernamental en #SegundoDebate	NEUTRAL		
+826	-AMLO le quedan 12 segundos, ¿Los quiere utilizar? -ehh, propongo que.... -Gracias, se le acabó el tiempo. #Debate2012	NEGATIVE		
+828	RT @DespiertMex: Tenemos que producir... AMLO habla del deficit comercial que tiene México con China. Diagnostico acertado #AMLOsi #Debate2012	POSITIVE		
+830	AMLO: No fui militante del PRI. JVM: Soy mujer. Quadri: ¿Quieren matrimonios gay? EPN: No culpes a la noche, no culpes a la playa.	NEUTRAL		
+832	RT @mkr_bts: AMLO: No fui militante del PRI.  JVM: Soy mujer.  Quadri: ¿Quieren matrimonios gay? EPN: No culpes a la noche, no culpes a la playa.!	NEUTRAL		
+834	RT @diablitohigh: EPN es como el primo fresa insoportable, JVM es como la chacha, AMLO es como el abuelito regañón y Quadri es el tío gay	NEUTRAL		
+836	RT @qtf: AMLO me veo el ombligo y haganle como quieran... Es mio, mio y de mi.	NEGATIVE		
+838	RT @galvanochoa: AMLO se adueño del escenario, la 'competencia' se va empequeñeciendo. #2oDebate	POSITIVE		
+84	@AnnieAnonima @AMLO_Presidente : Qu'inondé de cris est le jardin! Moi, l'héliotrope, moi! Moi ? Le jasmin José Gorostiza le 1er juillet PRI EPN	NEGATIVE	NEGATIVE	Entite
+840	RT @sofdel: Hablan de progreso, orgullo mexicano y apertura mundial y AMLO quiere que cualquier tarado entre a la universidad y se gradúe...  #seriously	POSITIVE		
+842	"RT @KeniBd: RT @JessAyala17: ""AMLO es el ÚNICO candidato que no ha tenido nada que ver con Elba Esther, ... http://t.co/jonteyi1"	POSITIVE		
+844	RT @arrobame: AMLO: Gobernaré con honestidá. JVM: Seré testiga candidato cuadro. EPN: Calladito me veo más bonito. Quadri: ¿Y China? Yo: Jaja #Debate2012	NEUTRAL		
+846	RT @_Pechos: RT @AMLO_si: Andrés Manuel es el único que no ha atacado. Dato importante.#CambioVerdadero	POSITIVE		
+848	RT @fernandeznorona: Muy bien Amlo, carajo, muy bien. Les vamos a ganar.	POSITIVE		
+850	Josefina en vez de tirarle a Quadri y AMLO mejor a EPN! El es el puntero	NEUTRAL		
+852	RT @LaJornada: Mi cambio será tranquilo, sin venganza y que todos vivamos mejor: AMLO #amlo #segundodebate #elecciones2012 http://t.co/lD0MqcH7	POSITIVE		
+854	#ElPejeAburreHastaALosPejezombies cuando no acabas la escuela terminas hablando como amlo	NEGATIVE		
+856	Para que nacias AMLO? Sí ivas hacer un nacoo dolidooo!	NEGATIVE		
+858	RT @rufianmelancoli: sí se dan cuenta que JVM y AMLO evolucionaron al ritmo de las últimas semanas y EPN sigue en su discurso de hace dos meses?	NEUTRAL		
+86	Le conseiller qui a demandé 6 mdd pour AMLO trompe à la Migration :: La Raison :: le 9 juin 2012 http: // t.co/0sktlkf0 #ElPejeHaceTurismoElectoral	NEGATIVE	NEGATIVE	Bilan
+860	RT @GRPANCHOVILLA: SI amlo twiteara seria algo asi: Yo.......tengo experiencia en...........como........jefe de gobierno y......ahora......ya......nos han.....	NEGATIVE		
+862	"RT @AJuvenil: ""@Iopezobrador: 11 Segundos ni para dos palabras, con lo lento que soy"" no te duermas AMLO. #Debate2012 #JVMmanda"	NEGATIVE		
+864	RT @wereveertumorro: RT si sabes que AMLO es el más CHINGÓN!  #Debate2012	POSITIVE		
+866	RT @AleRosasM: Dice AMLO 'los tratados internacionales no son la panacea' y la globalización apá? #epicfail #Debate2012	NEGATIVE		
+868	Ese AMLO tiene mucho dinero el chavo.	NEGATIVE		
+870	RT @carolajaime: AMLO pajaritooo pajaritoo aca esta la camaraaa!! Ps ps ps/ jajajajaja true !!	NEGATIVE		
+872	RT @fernandeznorona: Muy bien Amlo, carajo, muy bien. Les vamos a ganar.	POSITIVE		
+874	RT @MaferIni: AMLO: No fui militante del PRI, JVM: soy mujer, Quadri: ¿Quieren matrimonios gay?, EPN: No culpes a la noche, no culpes a la playa... ! Jaja	NEUTRAL		
+876	Ya nos dijiste AMLO, alzheimer everywhere.	NEGATIVE		
+878	"AMLO: ""Tengo ejsperiencia"" #Debate2012"	NEGATIVE		
+88	Il y a une campagne de lynchage contre AMLO : la Guerre : Le journaliste du journal mexicain La Jornada ... http: // t.co/EJnXFwNC #Guatemala	NEGATIVE	NEGATIVE	Ethique
+880	RT @ZaydaMzrs: Ejperiencia en qué AMLO?	NEGATIVE		
+882	AMLO y sus propuestas populistas. Que se fije cómo está España por culpa de un socialista como él.	NEGATIVE		
+884	RT @UGGLYTRUTH: -AMLO le quedan 12 segundos, ¿Los quiere utilizar? -ehh, propongo que.... -Gracias, se le acabó el tiempo. #Debate2012	NEGATIVE		
+886	Quadri te voy a responder por que como AMLO tengo ejperencia!! Tus propuestas son mamadas por que eres un arrastrado de elba #quadrieselba	NEUTRAL		
+888	RT @sergioaguayo: 2da conclusión sobre el debate: la presidencia se la disputaran EPN y AMLO	NEUTRAL		
+890	RT @Ximmenax: 1. Naces 2. Eres AMLO 3. Creces 4. No eres presidente. 5. No eres presidente. 6. No eres presidente.7. No eres presidente. 8. Mueres! ._.	NEGATIVE		
+892	RT @UGGLYTRUTH: -AMLO le quedan 12 segundos, ¿Los quiere utilizar? -ehh, propongo que.... -Gracias, se le acabó el tiempo. #Debate2012	NEGATIVE		
+894	RT @UGGLYTRUTH: -AMLO le quedan 12 segundos, ¿Los quiere utilizar? -ehh, propongo que.... -Gracias, se le acabó el tiempo. #Debate2012	NEGATIVE		
+896	RT @ahope71: Si sabe don AMLO que México exporta casi 400 mil millones de dólares?	NEGATIVE		
+898	El máximo sueño de #AMLO es que México desperatara y lo esta haciendo #EsUnHonortuitearporObrador	POSITIVE		
+90	En trompant ils(elles) elles dédouanent pour s'acquitter des ambitions présidentielles du messie tropical, d'AMLO. #ElPejeHaceTurismoElectoral	NEGATIVE	NEGATIVE	Ethique
+900	RT @MrGuarrior: No mamen! Hasta el wey de las señas las hace despacioooo cuando habla	NEGATIVE		
+901	AMLO, HAHAHAHAHA que cagado!	NEGATIVE		
+903	RT @Kerverox: #AMLO que bien respondio... analizo y no cayo en el juego de los demas... bofetada con guante blanco a todos los malos...  #Debate2012	POSITIVE		
+905	RT @victoriadamian: Los programas que @AMLO implementó en el DF han sido copiados en varios estados y por el gob federal. ¿No que era un peligro para México?	POSITIVE		
+907	Yo creo q no es equitativo q les den los mismos minutos a todos los candidatos n l debate, a AMLO q le den mas por su lentitud y por zoquete	NEGATIVE		
+909	AMLO habla tan lento... que el traductor de sordomudos parece que está haciendo Tai Chi.. #Debate2012 jajajajajajajajajajajajajajjajajajajaj	NEGATIVE		
+911	Por los que queremos que AMLO se valla del PAIS..... #JVMManda	NEGATIVE		
+913	RT @fueTT: Vamos a endeudar al país. - AMLO 2012.	POSITIVE		
+915	RT @lnedito: -Tu turno, AMLO.	NEGATIVE		
+92	Les personnes sont que l'histoire dit qu'ils sont et ceci parle très mal d'AMLO yEPN. Amours sont faites et des raisons non bonnes @Brozo_TV @GustArte	NEUTRAL	NEUTRAL	Entite
+921	RT @MadreModerna: Ya quítenle la cámara Phantom a AMLO.	NEGATIVE		
+923	"RT @DavooSandoval: RT @eduarditoespop: -Tu turno, AMLO. -B  u e  n  o, p u e j... -Se acabó tu tiempo."" // JAJAJAJAJA infinitoo!!"	NEGATIVE		
+925	RT @NetasMx: AMLO habla tan lento... que el traductor de sordomudos parece que está haciendo Tai Chi..  #Debate2012  #MeAflojoComoAMLO	NEGATIVE		
+927	RT @DiariodeYucatan: Plantea AMLO crecimiento y empleo para mejorar imagen de México http://t.co/W5WjjS1q	POSITIVE		
+929	De plano amlo no sabe que decir! Habla lento porque no tiene fundamento!	NEGATIVE		
+931	-@EuniceArias: Jaja... Qué buenas puntadas de Quadri y AMLO! Nada propositivos, pero bien amenos!!!// la ocurrencia eso lo de ellos diputada	NEUTRAL		
+933	#AMLOVAGANANDO Propone AMLO reducir número de diputados	POSITIVE		
+935	RT @wo_0: Dice AMLO que van a entrar todos a la universidad, sin examen. Claro, para llenar las aulas de fósiles aunque tomen clases de pie.	NEGATIVE		
+937	Este cínico @AMLO hablando de serenar cuando su discurso general es cada vez más agresivo	NEGATIVE		
+939	Ya los de coahuila lo saben lo saben, los de zacatecas lo saben lo saben ya hasta amlo lo sabe lo sabe	POSITIVE		
+94	RT @piochiapas : la télé nous raconte qu'AMLO est celui qui sème une haine et une violence et Televisa-EPNouPRIAN sont les Soeurs de la Charité. C'est le monde à l'envers!	POSITIVE	NEUTRAL	Competence
+941	Funcionarios incorruptibles!!! Utopias mexicanas de ayer y hoy cortesía del candidato cetáceo Amlo	NEGATIVE		
+943	AMLO Funcionarios incorruptibles, ¿donde existen de esos? me da 100 por favor	NEGATIVE		
+945	AMLO tu cara es un foco por la grasa?	NEGATIVE		
+947	@DespiertMex las múltiples mentiras de jvm y epn dan peña no.. Amlo presidente...	POSITIVE		
+949	A AMLO le brilla esa cara como un panucho jajajaj	NEGATIVE		
+951	Cada vez que AMLO diga jóvenej me voy a echar un shot #loj132jonmíoj	NEGATIVE		
+953	La palabra de AMLO hoy es....SERENAR...yo sereno, tu sereno, el sereno, todos serenamos, vos serenais...	NEUTRAL		
+955	RT @laandiin: AMLO: El de las propuestas. Quadri: El Preguntón Peña: El gris Chepina: La Fiera. #Debate2012	NEUTRAL		
+957	RT @PresuntoC: AMLO ¡The Guardian! AMLO ¡The Guardian! AMLO ¡The Guardian! AMLO ¡The Guardian! AMLO ¡The Guardian!	NEUTRAL		
+959	RT @paolamab: dice ninel que si queda AMLO se inscribe en medicina o economía	NEGATIVE		
+96	RT @YoVotoJosefina : Le PRI a 2 manières de revenir : avec EPN et avec AMLO, #YoVotoJosefina	NEGATIVE	NEGATIVE	Projet
+961	RT @liebano: La respuesta de AMLO para combatir la pobreza es el asistencialismo, recursos públicos para regalar a la gente.	NEGATIVE		
+963	RT @ceciliasotog: AMLO vincula empleo con inseguridad, como si la causa de la violencia fuera la pobreza,...No es así...La violencia es multifactorial	NEGATIVE		
+965	RT @goliveros: Ah, eso es novedad, AMLO ya no dormirá en palacio nacional! se acuerdan?	NEGATIVE		
+967	-@Panacek: ¿Si AMLO  dice jijijijiji está reiterando una respuesta?!//ji	NEGATIVE		
+969	Cuando AMLO dice cómo va a producir riqueza, le preguntan para qué. Cuando dice para qué, le preguntan cómo va a producir riqueza. Bién!	NEGATIVE		
+971	#EPN, otra vez fusilándose las propuestas de #AMLO	POSITIVE		
+973	@piochiapas #CantifleoComoEPN AMLO muy por encima de los otros!!! #AMLOseráPRESIDENTE	POSITIVE		
+975	pues si AMLO pero es la eterna promesa de este país	NEGATIVE		
+977	RT @Aguardientosky: Pasándolo a lo nuestro, EPN es Santos, Quadri es Mockus, Josefina es Gina Parody y AMLO es Carlos Gaviria.	NEUTRAL		
+979	"RT @GabyDuenasJ: ""@cursilocos: Josefina va ganando el debate. Según encuesta @Reforma.com: Quadri 2.3%; EPN, 3.4%; AMLO 2.8%, y JVM 4.8 #JVMmanda /#JVMManda"	NEUTRAL		
+98	Les morenos disent qu'AMLO ne commet pas d'actes opposés à la loi et Costa Bonino son collaborateur  n'est pas un étranger, c'est une question	NEGATIVE	NEGATIVE	Entite
+981	AMLO, hay que atender las causas! y como? alguien entendio	NEGATIVE		
+983	"RT @beltrandelriomx: No hemos escuchado a AMLO decir que EPN es ""el candidato de las televisoras"", por ejemplo. Se ha serenado esta noche"	NEGATIVE		
+985	RT @macariomx: Además, AMLO se va a multiplicar...	NEGATIVE		
+987	"@espoigres No, mi AMLO no, el es diferente; espera, esa era Josefina. Como sea, la política económica de AMLO NO es neoliberal, te lo juro."	POSITIVE		
+989	@Maliflist: #AMLO la cuidad mas segura de #MéxicoEstaConAMLO el DF y esta bellísimo amo la capital se ve el progreso #Morena@carrascomak	POSITIVE		
+991	RT @sansaracho: Si gana #AMLO o #EPN, voy a vivir en un mejor pais... Canada me gusta.	NEUTRAL		
+993	RT @val_islasO: AMLO Presidente Constitucional de la República AMOROSA. http://t.co/gvrgBhp0	NEGATIVE		
+995	RT @alex_Landero: Amlo: tengo experiencia... (en toma de calles, de pozos petroleros y doctorado en generación d conflictos).	NEGATIVE		
+997	RT @usnabi: Claro #AMLO cree que vas a tener gente incorruptible que gane 5 pesos y q tome decisiones (en la PGR por ejemplo) solo por su amor a México	NEGATIVE		
+999	#AMLO celebra que las #manifestaciones juveniles se realicen de manera pacífica y en libertad #esunhonortuitearporObrador	POSITIVE		
+
