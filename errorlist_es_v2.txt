@@ -1,0 +1,218 @@
+# Errors list with spanish contents
+Contents the automatic system was not able to classify correctly.
+ ==============================
+## Contents
+32	RT @piochiapas : "Authentiques" les documents qui révèlent des paiements à Televisa pour projeter EPN et pour insulter AMLO : The Guardian http: // t.co/OG1nyuCS RT	REF: NEGATIVE vs SYS: POSITIVE
+959	RT @paolamab: dice ninel que si queda AMLO se inscribe en medicina o economía	REF: NEGATIVE vs SYS: NEUTRAL
+1065	@lopezobrador_  Les amando la bamba de @AMLO para quienes la quieran rolar, #MarchaAntiEPN	REF: NEUTRAL vs SYS: POSITIVE
+358	C'est AMLO n'est pas celui-là du débat passé.	REF: NEGATIVE vs SYS: POSITIVE
+1031	RT @jovenesamlo: Una chingónada de gabinete el de AMLO !! Ya se chingó a todos! Con todo respeto.	REF: NEGATIVE vs SYS: POSITIVE
+84	@AnnieAnonima @AMLO_Presidente : Qu'inondé de cris est le jardin! Moi, l'héliotrope, moi! Moi ? Le jasmin José Gorostiza le 1er juillet PRI EPN	REF: NEGATIVE vs SYS: POSITIVE
+194	#HijoDelPejePirrurris voici le junior qu'AMLO a fait http: // t.co/KzOwM3gm	REF: NEGATIVE vs SYS: NEUTRAL
+517	RT @vicaserrano: Josefina agrediendo y sobres contra ellos, Quadri proponiendo,  AMLO cantinfleando un poco y negandolo todo, Peña a la defensa y nervioso.	REF: NEUTRAL vs SYS: NEGATIVE
+458	RT @jolufilo : dites Déjà à Josefina qu'elle est en troisième lieu et qu'ielle) a déjà perdu, que je me suis incliné par AMLO, chance et nous lui pardonnons ses mensonges et calomnies	REF: NEGATIVE vs SYS: NEUTRAL
+454	RT @Iaura_bozzo : Quadri : Je suis citoyen. EPN : Je suis un Mirrrey. AMLO : Je suis pauvre. JVM : Je suis différent	REF: NEUTRAL vs SYS: POSITIVE
+226	RT @twitte_r1000 : #queelpejenoteapendeje #AMLO dit être honnête mais il est entouré par des corrompus comme Monreal Bejarano Mandoki et Bonino ceux-là du charolazo etc.	REF: NEGATIVE vs SYS: NEUTRAL
+739	AMLO, eran 10seg. No 10min. Ya callate.	REF: NEGATIVE vs SYS: POSITIVE
+168	#EsUnHonortuitearporObrador AMLO propose de réduire le nombre de députés. L'heure est à l'approche	REF: NEGATIVE vs SYS: POSITIVE
+627	AMLO es un gran orador. Cada que abre la boca me da sueño. #ElPejeAburreHastaALosPejezombies	REF: POSITIVE vs SYS: NEUTRAL
+1425	RT @ZazilCarreras: LA BAMBA PARA ANDRES MANUEL (AMLO) http://t.co/rZtkx8nR #LaBamba // Chulada!!	REF: NEGATIVE vs SYS: POSITIVE
+486	RT @JohnMAckerman: Sorprendente que AMLO no ha lanzado ni una sola critica hacia sus adversarios.	REF: NEGATIVE vs SYS: POSITIVE
+1445	Te AMLO. -Algo no me Quadri- -¿Fumamos Mota? -No, qué Peña.	REF: NEUTRAL vs SYS: POSITIVE
+1025	RT @jose_osorio: Si los gabinetes fueran equipos de futbol, AMLO nos acaba de presentar al Barcelona, objetivamente se los digo.	REF: NEUTRAL vs SYS: POSITIVE
+509	RT @Stenshet: El debate entre los presidenciables: AMLO, JVM, Quadri y Chetto Torcidito.	REF: NEUTRAL vs SYS: POSITIVE
+1015	@JosePablo_Z AMLO presentando el gabinete con el que se va a ir a la chingada. y a un bonito asilo	REF: NEGATIVE vs SYS: POSITIVE
+1061	Ahuevo AMLO, tu si eres el mero mero #Debate2012	REF: POSITIVE vs SYS: NEGATIVE
+1645	#AMLO siguen pensando que esto es un comploó #MeEmputaQue que sea autoritarista e hipócrita #VerFollow  http://t.co/OMqyrx2x	REF: NEGATIVE vs SYS: POSITIVE
+1389	"AMLO y Peña no se tocan; JVM trató de subirse al ring http://t.co/s4AqmFdr vía @pajaropolitico"	REF: NEGATIVE vs SYS: POSITIVE
+244	RT @fcojrz : #AMLOLaDesgraciaDeMéxico AMLO celui qui propage la peur celui qui propage la haine tu es TU ne mens pas. http: // t.co/6PmfcOlp	REF: NEGATIVE vs SYS: NEUTRAL
+1585	RT @Karliiitt: 1. Naces 2. Eres AMLO 3. Creces 4. No eres presidente. 5. No eres presidente. 6. No eres presidente. 7. No eres presidente. 8. Mueres.	REF: NEGATIVE vs SYS: POSITIVE
+999	#AMLO celebra que las #manifestaciones juveniles se realicen de manera pacífica y en libertad #esunhonortuitearporObrador	REF: NEGATIVE vs SYS: POSITIVE
+488	RT @CoordAMLO: Que vivan los estudiantes! #AMLO #Debate12	REF: NEGATIVE vs SYS: POSITIVE
+1315	@andres_casasn PUES EMPIEZA A VOTAR POR AMLO. PORQUE SINO GANA, SE VA A PONER FEO.	REF: NEGATIVE vs SYS: POSITIVE
+152	La sympathie vers AMLO, au-delà de la coalition le peuple a décidé par soi-même : Zambrano http: // t.co/cT4e6Bbj	REF: POSITIVE vs SYS: NEGATIVE
+452	Le modérateur Quadri est en colère parce qu'ils ne lui donnent pas la parole ... donnez-la-lui! Ou comme le dirait AMLO : désensela!	REF: NEGATIVE vs SYS: NEUTRAL
+480	Maintenant est-ce qu'ils ne vont donner des photos à AMLO ?, un pardon j'oublie qu'il les met à l'envers :)	REF: NEUTRAL vs SYS: POSITIVE
+535	RT @Esepinchewey: Oye @Rubbbb gracias a AMLO podrás entrar a la UNAM. Dale las gracias.	REF: NEUTRAL vs SYS: POSITIVE
+444	EPN et AMLO nient le pouvoir(puissance) l'acquisition .. du Mexicain, des employées domestiques et des maçons ont une propre maison, cellulaires et une assurance populaire!	REF: NEGATIVE vs SYS: POSITIVE
+765	RT @Elplatano_macho: -Tu turno, AMLO.	REF: NEGATIVE vs SYS: NEUTRAL
+312	RT @ObservatorioPRI : #AMLO dit qu'il gouvernera pour riches et pauvres, il a annihilé à la classe moyenne dans sa présentation #Debate2012 #ConPeñaMéxicoVaACambiar	REF: NEGATIVE vs SYS: POSITIVE
+567	RT @PpLalow: AMLO puede decir que resucita a Jesus, todos le creen y aplauden, se conforman con creerle no exigen q JUSTIFIQUE! Y es q no sabe como #fb	REF: NEGATIVE vs SYS: POSITIVE
+116	@Pirrusberry j'espère que tu n'ailles pas pelatso à voter ce 1 juillet par @EPN non pour la marque laissée par une maladie déshonnête de #amlo	REF: NEGATIVE vs SYS: NEUTRAL
+1197	RT @aze1a: #BoycottTelevisa hasta que quiten el spot de AMLO RT ayuden aque sea trending topic @anonopshispano @La_War @jovenesamlo	REF: NEGATIVE vs SYS: POSITIVE
+1395	@JosefinaVM NO SEAS COPIONA! ESO LO HA DICHO AMLO EN TODA SU CAMPAvëA!!!!!!!!	REF: NEGATIVE vs SYS: NEUTRAL
+286	@Eponiatowska merci pour faire parler à #AMLO et le faire sourire =D	REF: NEGATIVE vs SYS: NEUTRAL
+800	[1:00] Yo propongo que se generen empleos, insisto... [0:00]	REF: NEGATIVE vs SYS: POSITIVE
+581	RT @marcalex88: La propuesta económica de #AMLO sacada derechito de los 30s. En la madre...	REF: NEGATIVE vs SYS: POSITIVE
+308	RT @bernageek : un mole pour AMLO la nette	REF: NEGATIVE vs SYS: POSITIVE
+605	RT @sallesino: AMLO acaba de perder el voto de los ninis.	REF: NEGATIVE vs SYS: POSITIVE
+1247	Sin lugar a dudas @lopezobrador_ se alzó como triunfador: Movimiento Ciudadano http://t.co/GLANk6TH	REF: NEGATIVE vs SYS: POSITIVE
+927	RT @DiariodeYucatan: Plantea AMLO crecimiento y empleo para mejorar imagen de México http://t.co/W5WjjS1q	REF: NEGATIVE vs SYS: POSITIVE
+436	#AMLOVaGanando Sauvons le Mexique avec #AMLO. Tous pouvons participer,	REF: NEGATIVE vs SYS: NEUTRAL
+1103	RT @Don_Ferrer: Ya hasta Peña quiere votar por AMLO.	REF: NEUTRAL vs SYS: NEGATIVE
+296	#DEBATE2012 AMLO nous sommes avec toi!!!	REF: NEGATIVE vs SYS: NEUTRAL
+975	pues si AMLO pero es la eterna promesa de este país	REF: NEGATIVE vs SYS: POSITIVE
+200	Je vote AMLO#EstoyconAMLO AMLO est le seul capable de lutter contre la pauvreté	REF: POSITIVE vs SYS: NEGATIVE
+1541	LA BAMBA PARA ANDRES MANUEL (AMLO) http://t.co/6WhPA3NK <Fa RT @AMLOamor@s #VotoAMLO #SalvaMexicoAMLOpresidente2012 #YaNoPRIANinfernalRapiña	REF: NEGATIVE vs SYS: POSITIVE
+525	RT @lasillarota: #Debate2012 AMLO ofrece no aumentar impuestos y eliminar algunos gravámenes, como el IETU http://t.co/22qLM7le	REF: NEGATIVE vs SYS: POSITIVE
+272	#AMLO a la porte :)	REF: NEGATIVE vs SYS: POSITIVE
+775	RT @fueTT: ¿Cómo AMLO?, ¿CÓMO?	REF: NEGATIVE vs SYS: NEUTRAL
+557	RT @ConteoYoSoy132: #Debate2012 AMLO: Reforzar educación, útiles y uniformes gratuitos, acceso universal. #ConteoYoSoy132	REF: NEGATIVE vs SYS: POSITIVE
+1581	Por algo estuvieron nerviosos los adversarios de AMLO. http://t.co/SLIx4wKB	REF: NEGATIVE vs SYS: POSITIVE
+294	@epn @MarchaAntiEPN @JosefinaVM @AMLO YEAH!!JE SUIS 132!! | ENVOYER À LA MERDE LE PRI À TELEVEISA ET À ET P N!!!	REF: POSITIVE vs SYS: NEUTRAL
+515	RT @JorgeFCamachoA: : eso es cierto. AMLO es visto bien por demócratas y conservadores.	REF: POSITIVE vs SYS: NEUTRAL
+60	Sur le point de partir #MarchadelaEsperanza en faveur d'AMLO de l'Ange au Zócalo dans le DF, et sur beaucoup de places dans des parties différentes du pays.	REF: NEGATIVE vs SYS: POSITIVE
+1067	"RT""1.Naces 2.Eres AMLO 3. Creces 4. No eres presidente. 5. No eres presidente. 6. No eres presidente. 7. No eres presidente. 8. Mueres.""JAJA"	REF: NEGATIVE vs SYS: POSITIVE
+432	#AMLOpresidente #AMLOdebate #TODOMEXICOESTERRITORIOAMLO un plus d'emplois et soutient aux jeunes. par cela avec AMLO	REF: NEGATIVE vs SYS: POSITIVE
+519	@kchavero: Este debate debió de haber sido solo entre AMLO y EPN los demás y sus tonterías están de más/:)	REF: NEGATIVE vs SYS: NEUTRAL
+1111	@el_pais se parece tanto a ti #amlo que no puedes engañarnos jajaja venezuela, bolivia y cuban seran nuestros nuevos socios con #amlo	REF: NEGATIVE vs SYS: NEUTRAL
+907	Yo creo q no es equitativo q les den los mismos minutos a todos los candidatos n l debate, a AMLO q le den mas por su lentitud y por zoquete	REF: NEUTRAL vs SYS: NEGATIVE
+856	Para que nacias AMLO? Sí ivas hacer un nacoo dolidooo!	REF: NEGATIVE vs SYS: POSITIVE
+446	RT @CharlydelriO : AWEBO AMLO TAIT GOLUM!	REF: NEGATIVE vs SYS: NEUTRAL
+262	Je suis relâché dans chemins de terre comme AMLO.	REF: POSITIVE vs SYS: NEUTRAL
+1331	Bamba para @AMLO_NEWS Andres Manuel, http://t.co/FuzDp3xM veeeeeeeeenga!!!!	REF: NEUTRAL vs SYS: POSITIVE
+1149	RT @juan_rey_: Usted nos miente (#AMLO) o piensa endeudar al país #Josefinaeslaopcion / ASÍ O +CHINGONA? #votoútilporjosefina @JPsosa @Jan_Herzog @ileanau	REF: NEGATIVE vs SYS: POSITIVE
+1533	@avefenixsme Cuando vislumbres la realidad de este país comprenderas que AMLO no los va a solapar para siempre...	REF: NEGATIVE vs SYS: POSITIVE
+1305	RT @esquincakobeh1: Es obvio que el debate de ayer lo ganó #AMLO y este 1ro de Julio, con el respaldo de todos, ganará la presidencia de México	REF: NEGATIVE vs SYS: POSITIVE
+1435	"RT @CAHP_1: RT @NEO_BAHAMUTH fracasados como #Calderón que a todo dice ""NO SE PUEDE"" México esta mal. CON AMLO LOGRAREMOS LO QUE PARA EL ES IMPOSIBLE"	REF: NEGATIVE vs SYS: POSITIVE
+961	RT @liebano: La respuesta de AMLO para combatir la pobreza es el asistencialismo, recursos públicos para regalar a la gente.	REF: NEGATIVE vs SYS: POSITIVE
+176	NOUS ALLONS SI ON PEUT #EsUnHonortuitearporObrador. Je vote AMLO	REF: NEUTRAL vs SYS: POSITIVE
+629	RT @dmiklos: ¿Si saben que en 1971 AMLO tenía 18 años y Octavio Paz 57, verdad?	REF: NEGATIVE vs SYS: POSITIVE
+810	RT @maregd: OJO-----> Calderón le entró al debate en Twitter contra AMLO. Está violando el COFIPE.	REF: NEUTRAL vs SYS: NEGATIVE
+170	@oxcurito TOUS AVEC AMLO	REF: NEGATIVE vs SYS: NEUTRAL
+1587	-@RafQuotes: Una parte de plaza de Fundadoresno cabe todo en una sola foto. @amlo_si  http://t.co/2818w6y4- // @MarinVaquero	REF: NEUTRAL vs SYS: POSITIVE
+977	RT @Aguardientosky: Pasándolo a lo nuestro, EPN es Santos, Quadri es Mockus, Josefina es Gina Parody y AMLO es Carlos Gaviria.	REF: NEUTRAL vs SYS: POSITIVE
+1221	RT @jovenesamlo: -@jmcotav: De acuerdo a UNO.TV, canal de Carlos Slim, #AMLO ganó el debate. #HoyGanamosConAMLO La Minerva  http://t.co/yJv26kmQ-/RT RT RT	REF: NEUTRAL vs SYS: POSITIVE
+790	RT @jorgezepedap: Me parece q AMLO es el mas autentico, el menos producido, pero le faltó preparar mas el debate	REF: NEUTRAL vs SYS: POSITIVE
+1413	"Retan a SCHP a debatir cifras de plan de austeridad de AMLO: Aseguran que los datos de López Obrador ""si cuadran... http://t.co/ERkdCoTt"	REF: NEGATIVE vs SYS: NEUTRAL
+1001	"RT @Morf0: Se quejan de que AMLO hable ""lento"". Ahí están peña o chepina, que hablan rápido y a lo pendejo. De nada."	REF: NEGATIVE vs SYS: POSITIVE
+717	#CiberPRINacional Creo q AMLO no tiene noción dl tiempo. se le duerme la ardilla! #AMLOLaDesgraciaDeMéxico #ELPejeAburreHastaASusPejeZombies	REF: NEUTRAL vs SYS: POSITIVE
+414	Nous les jeunes sommes avec AMLO	REF: NEUTRAL vs SYS: POSITIVE
+462	@Sandy_Rosas aujourd'hui le travail de chepina est de donner à AMLO avec tout bien AMLO	REF: NEUTRAL vs SYS: POSITIVE
+1491	RT @Pajaropolitico: Si quieren presentar alguna queja ante el IFE, va TODO lo que tienen que hacer http://t.co/vjCB7MRW	REF: NEUTRAL vs SYS: NEGATIVE
+142	RT @PRIesPRD : #ElPejeHaceTurismoElectoral l'unique qui #AMLO lui garantit le Mexique, est de retourner les #EXPriistas ... http: // t.co/ROH1PPyc	REF: NEGATIVE vs SYS: POSITIVE
+725	#AMLO habla con la verdad como competir si no producimos, como hacer tratados con potencias y poner a los Mexicanos en desigualdad	REF: NEGATIVE vs SYS: NEUTRAL
+513	La corbata de AMLO- ni como ayudarle	REF: NEGATIVE vs SYS: NEUTRAL
+1409	RT @Iaura_bozzo: Quadri: Soy ciudadano. EPN: Soy un Mirrrey. AMLO: Soy pobre. JVM: Soy Diferente	REF: NEUTRAL vs SYS: POSITIVE
+549	RT @aniitaolvera: @pamlusk ahora le toco a Roosvelt ser el personaje histórico elegido por AMLO jajaja	REF: NEUTRAL vs SYS: POSITIVE
+1663	@Enrique_Aquino AMLO un peligro para México http://t.co/nosnylzX	REF: NEGATIVE vs SYS: POSITIVE
+1141	La Bamba para AMLO via @arikuki https://t.co/yJ2licDi!	REF: NEGATIVE vs SYS: POSITIVE
+1155	Oye @monerohernandez ¿conoces a Pablo Hiriart? Publicaron un art suyo horroroso contra AMLO. Tienen miedo	REF: NEUTRAL vs SYS: NEGATIVE
+709	CADA VEZ QUE HABLA AMLO SE CAE EL SISTEMA DE TARAVISA	REF: NEGATIVE vs SYS: POSITIVE
+1005	Ya me aburrí... AMLO, ¿A qué hora las fotos al revés?	REF: NEUTRAL vs SYS: POSITIVE
+40	RT @MonicaTatsumi : Support à #AMLO : #MarchaXLaEsperanza le 9 juin, 17 heures, de l'Ange au Zócalo http: // t.co/YnYQorbH	REF: NEGATIVE vs SYS: POSITIVE
+250	RT @carlosbravoreg : Josefina réclame à AMLO pour avoir militarisé dans le PRI il y a 25 ans ... mais non à EPN par militaire dans le PRI aujourd'hui.	REF: NEUTRAL vs SYS: NEGATIVE
+1313	#AlPejeNoLeSalenLasCuentas AMLO es una politico mentiroso y sin propuestas concretas	REF: NEGATIVE vs SYS: POSITIVE
+1617	que la gente ya quiere transformación de la nación de la nación.! la bamba para Andres Manuel #AMLO http://t.co/9S3Wm4qH	REF: NEGATIVE vs SYS: POSITIVE
+1397	#amloleaks #anonymous #copeteleaks AMLO usa base de datos de reemplacamiento para campaña aqui la base completa http://t.co/iy9T9V4H	REF: NEGATIVE vs SYS: POSITIVE
+757	EPN ya quedo fuera del pleito entre JVM Cuadri y AMLO #debate2012	REF: NEGATIVE vs SYS: NEUTRAL
+1099	CNN USA josefina se queda en 3 lugar  a 3 puntos abajo  de AMLO @EJLodeNa @voceropolitico	REF: NEGATIVE vs SYS: POSITIVE
+745	JVM -Regina George Quadri -Cady Heron AMLO -Gretchen Wieners EPN -Karen Smith #debate2012 #SiFuésemos4mujeres	REF: NEUTRAL vs SYS: POSITIVE
+34	RT @Mickeiisuarez : Les #Bots disent que que Bonino a trompé à la Migration et quand #AMLO se plaint des Institutions ceux-là du PRIAN se dérangent #ElPejeHaceTurismoElectoral	REF: NEUTRAL vs SYS: POSITIVE
+828	RT @DespiertMex: Tenemos que producir... AMLO habla del deficit comercial que tiene México con China. Diagnostico acertado #AMLOsi #Debate2012	REF: POSITIVE vs SYS: NEUTRAL
+90	En trompant ils(elles) elles dédouanent pour s'acquitter des ambitions présidentielles du messie tropical, d'AMLO. #ElPejeHaceTurismoElectoral	REF: NEUTRAL vs SYS: POSITIVE
+276	Dans ce tour d'AMLO je m'ai fait 5 sandwichs. Ai-je déjà gagné ?	REF: NEGATIVE vs SYS: POSITIVE
+1619	@YoSoy132 Ustedes son puro pedo, quieren a un MEXICO atado a un AMLO que va a destruir a MEXICO igual que EPN, estan igual de desinformados	REF: NEGATIVE vs SYS: POSITIVE
+1193	RT @excentricoser: Sin ser AMLO, se me vienen encima. LITERAL :3	REF: NEGATIVE vs SYS: POSITIVE
+921	RT @MadreModerna: Ya quítenle la cámara Phantom a AMLO.	REF: NEGATIVE vs SYS: POSITIVE
+1069	@AristeguiOnline #BoicotTelevisa hasta que quiten el spot de AMLO RT ayuden aque sea trending topic @anonopshispano @La_War	REF: NEGATIVE vs SYS: POSITIVE
+611	RT @YahooMx: [EN VIVO]: @FelipeCalderon lanza tweet respondiendo a AMLO y una de sus propuestas. http://t.co/PEoAdsKI	REF: NEGATIVE vs SYS: POSITIVE
+208	RT @twitte_r1000 : #queelpejenoteapendeje #AMLO dit être honnête mais il est entouré par des corrompus comme Monreal Bejarano Mandoki et Bonino ceux-là du charolazo etc.	REF: NEGATIVE vs SYS: NEUTRAL
+511	"RT @SirDraven: Quadri: Contesten q pedo con un TLC con China. EPN: Ni madres que te contesto; me salgo del guión y la cago. JVM: Soy diferente. AMLO: zzZZ."	REF: POSITIVE vs SYS: NEUTRAL
+842	"RT @KeniBd: RT @JessAyala17: ""AMLO es el ÚNICO candidato que no ha tenido nada que ver con Elba Esther, ... http://t.co/jonteyi1"	REF: POSITIVE vs SYS: NEUTRAL
+292	Pousser un secteur public, privé et social pour obtenir une croissance,  propose AMLO. #Debate2012	REF: NEGATIVE vs SYS: POSITIVE
+114	RT @arg8810 : @Tu_pp_grillo c'est claire! Un amlover m'a touché, celui qui se vantait de qu'AMLO avait aidé avec mille choses, et j'ai dit coff coff un budget fédéral!	REF: NEGATIVE vs SYS: NEUTRAL
+1675	RT @santosmercado: AMLO amenaza tomar las armas si no le dan la presidencia de la República Mexicana. ¡AL DIABLO SUS INSTITUCIONES! dice.	REF: NEUTRAL vs SYS: NEGATIVE
+649	#Debate2012 ... Me agrada que todos propongan y me agrada que al fin alguien le haga ver sus incongruencias a #AMLO	REF: POSITIVE vs SYS: NEUTRAL
+886	Quadri te voy a responder por que como AMLO tengo ejperencia!! Tus propuestas son mamadas por que eres un arrastrado de elba #quadrieselba	REF: NEUTRAL vs SYS: POSITIVE
+1609	¿Y con quien jugara @FelipeCalderon? Con @EPN o con AMLO? Porque hace rato abandono a @JosefinaVM	REF: NEGATIVE vs SYS: NEUTRAL
+585	RT @jlborbolla: Imaginese a AMLO gobernando todavía no se acaba el debate y ya se acabo el presupuesto en 2 rubros así o mas demagogia?	REF: NEGATIVE vs SYS: POSITIVE
+794	"RT @Rex_Gaeta: Cuando Quadri dijo ""Cuba"" AMLO pidió una ronda para todos!!!"	REF: NEGATIVE vs SYS: POSITIVE
+727	"RT @AMLO_si: Gran frase de AMLO ""Sino vamos nosotros por los jóvenes, otros irán por ellos"" http://t.co/hY9ZG17K #debate2012"	REF: POSITIVE vs SYS: NEGATIVE
+1177	@AristeguiOnline Pero no fuera AMLO, por que ya seria todo un engendro del mal !!! el @IFEMexico Y su #DobleMoral 	REF: NEGATIVE vs SYS: POSITIVE
+140	Une chaîne circule dans hotmail d'un écrivain dénommé : "Francisco Martin Moreno" est une critique dure à #AMLO : est-il de l'écrivain ?	REF: NEGATIVE vs SYS: POSITIVE
+1325	"México: #39;Economía milagro#39;, propuestas de AMLO: Rojas http://t.co/VPnatNMO"	REF: NEGATIVE vs SYS: POSITIVE
+1565	RT @MiChisteDelDia: -Te AMLO. -Algo no me Quadri-. -¿Fumamos Mota? -No, qué Peña.	REF: NEUTRAL vs SYS: POSITIVE
+412	- en 1971 j'étais dans le collège parce que j'ai fait 8 ans pour la terminer! - AMLO	REF: NEUTRAL vs SYS: POSITIVE
+1237	RT @Mov_Ciudadano: AMLO gana segundo debate : @Mariadelasheras  http://t.co/knGEl4RY | vía @aristeguionline	REF: NEGATIVE vs SYS: POSITIVE
+1467	RT @Ricardomeb: AMLO.SI | De las Heras presenta datos tras panel de debate http://t.co/coCcCktz via @amlo_si	REF: NEUTRAL vs SYS: POSITIVE
+1633	RT @SanAmilcar: AMLO es el único con la dignidad de nunca haber estado involucrado con Elba Esther. #AMLOPresidente	REF: NEGATIVE vs SYS: NEUTRAL
+1037	"RT @sallesino: ""Finish them"" *AMLO menciona a su gabinete*. ""FATALITY"". Que le Paso en La uña a AMLO??? #mexico #saltillo @werevertumorro por que AMLO esta sudando como cerdo? RT"	REF: NEGATIVE vs SYS: NEUTRAL
+619	RT @Tuittart: AMLO: Chinga tu madre EPN, JMV. EPN: Chinga tu madre AMLO, JVM. JMV: Cinga tu madre EPN, AMLO.Quadri: Quiero aprender náhuatl.	REF: POSITIVE vs SYS: NEUTRAL
+1017	RT @JennIslas: AMLO no tiene jóvenes en su gabinete sólo los usa para golpear, que pena @lopezobrador_  #AMLOladesgraciadeMéxico #realidadAMLO	REF: NEGATIVE vs SYS: POSITIVE
+1029	AMLO menciona a Juan Ramón de la Fuente como secretario de educación. Es el antiguo rector de la UNAM e hizo muchas cosas buenas por ella.	REF: NEGATIVE vs SYS: POSITIVE
+679	CADA VEZ QUE HABLA AMLO SE CAE EL SISTEMA DE TARAVISA	REF: NEGATIVE vs SYS: POSITIVE
+162	Allez amlo il faut lui donner le vote mes amis #TodoMexicoEsTerritorioAMLO	REF: POSITIVE vs SYS: NEUTRAL
+880	RT @ZaydaMzrs: Ejperiencia en qué AMLO?	REF: NEGATIVE vs SYS: NEUTRAL
+647	Se acuerdan de N de Pokémon?, así veo a AMLO. a EPN y JVM como el team rocket y Quadri como Brock...	REF: NEUTRAL vs SYS: POSITIVE
+240	@werevertumorro : c'est une pagaille cet AMLO INGATU!	REF: NEGATIVE vs SYS: NEUTRAL
+890	RT @Ximmenax: 1. Naces 2. Eres AMLO 3. Creces 4. No eres presidente. 5. No eres presidente. 6. No eres presidente.7. No eres presidente. 8. Mueres! ._.	REF: NEGATIVE vs SYS: POSITIVE
+266	RT @CreoQueLiz : EPN serait une chienne plastique, Quadri serait une fille de mami et AMLO serait une vieille dans une ménopause... Est-ce que j'ai compris, Chepina ?	REF: NEUTRAL vs SYS: POSITIVE
+1353	Dice AMLO que las encuestas son un complóh.	REF: NEGATIVE vs SYS: NEUTRAL
+174	Les jeunes sont une avant-garde de la lutte par la vraie démocratie : #AMLO #estoyconAMLO	REF: NEGATIVE vs SYS: POSITIVE
+1571	Josefina Apoya a AMLO http://t.co/7D4qZvRt	REF: NEGATIVE vs SYS: NEUTRAL
+422	RT @eleseguey : AMLO cite une phrase d'une boîte d'allum#ettes. Après il nous donne les horoscopes.	REF: NEGATIVE vs SYS: NEUTRAL
+905	RT @victoriadamian: Los programas que @AMLO implementó en el DF han sido copiados en varios estados y por el gob federal. ¿No que era un peligro para México?	REF: NEGATIVE vs SYS: POSITIVE
+731	RT @qtf: AMLO me veo el ombligo y haganle como quieran... Es mio, mio y de mi.	REF: POSITIVE vs SYS: NEUTRAL
+52	RT @Enrique_Aquino : Conformément à l'article 33 de la Constitution, le stratège d'AMLO Costa Bonino casse la loi. #ElPejeHaceTurismoElectoral	REF: NEGATIVE vs SYS: NEUTRAL
+693	Hasta que AMLO dice algo coherente con respecto a la PEM! Ahora que diga cómo producir... regresar al agro? y el valor agregado?	REF: NEGATIVE vs SYS: POSITIVE
+673	@Official1DMex #JosefinaVM ...ella y amlo no son titeres, pero con eso de que amlo asesino a su HERMANO, como va a dejar a Mexico..	REF: NEGATIVE vs SYS: NEUTRAL
+188	#AMLOPresidente Propose AMLO de réduire le nombre de députés. L'heure est à l'approche	REF: NEGATIVE vs SYS: POSITIVE
+1097	RT @aze1a: #BoycottTelevisa hasta que quiten el spot de AMLO RT ayuden aque sea trending topic @anonopshispano @La_War @jovenesamlo	REF: NEGATIVE vs SYS: POSITIVE
+804	RT @rufianmelancoli: producir, antes que tratados. Aunque suene aislacionista, también es coherente-urgente lo que propone AMLO	REF: POSITIVE vs SYS: NEUTRAL
+870	RT @carolajaime: AMLO pajaritooo pajaritoo aca esta la camaraaa!! Ps ps ps/ jajajajaja true !!	REF: NEGATIVE vs SYS: NEUTRAL
+623	RT @Tuittart: AMLO: Chinga tu madre EPN, JMV. EPN: Chinga tu madre AMLO, JVM. JMV: Cinga tu madre EPN, AMLO. Quadri: Quiero aprender náhuatl.	REF: POSITIVE vs SYS: NEUTRAL
+122	#ElPejeHaceTurismoElectoral vaux-moi qu'AMLO disent je suis avec toi et tu seras président!!	REF: NEGATIVE vs SYS: POSITIVE
+46	Le monsieur @FedericoArreola Demande ne pas agir comme fanatique politique http: // t.co/xFOnrd1v, Et Je rappelle ses "massues" à AMLO il y a quelques mois.	REF: NEUTRAL vs SYS: POSITIVE
+1051	amlo te quedan 5 seg... chin te cortaron	REF: NEGATIVE vs SYS: NEUTRAL
+6	RT @anahi_rabbit : #ElPejeHaceTurismoElectoral Les AMLO qui se plaignent de ce que nous disons des mensonges. L'Article 33 empêche aux étrangers de s'immiscer dans une politique interne	REF: NEGATIVE vs SYS: NEUTRAL
+36	RT @Tu_pp_grillo : le Pauvre AMLO si près de Bejarano et si loin de la Présidence	REF: NEGATIVE vs SYS: POSITIVE
+472	RT @bullysteria : C'est bien que @FelipeCalderon est impartial et il n'envoi pas de tweets pour discréditer AMLO.	REF: NEGATIVE vs SYS: POSITIVE
+1211	RT:La BAMBA para #AMLO .	REF: NEGATIVE vs SYS: POSITIVE
+1449	-Te AMLO  -Algo no me Quadri !!! -Fumamos Mora? -No que Peña XD!! 	REF: NEUTRAL vs SYS: POSITIVE
+836	RT @qtf: AMLO me veo el ombligo y haganle como quieran... Es mio, mio y de mi.	REF: POSITIVE vs SYS: NEUTRAL
+18	RT @orfeojemr : #ElPejeHaceTurismoElectoral Comme le Cas Televisa-EPN ils disaient qu'AMLO était fou et The Guardian a démontré l'opposé	REF: NEGATIVE vs SYS: POSITIVE
+376	RT @Gabrielbikes : EPN : le bronzé se me voit beaucoup  :S AMLO : j'ai bons proposijtions JVM : Je suis femme Quadri : ils se sont déjà rendus compte que je suis gay	REF: NEUTRAL vs SYS: POSITIVE
+785	#AMLO. Perdido en el debate y siguiendo con sus mismos delirios de persecusion y epilepsias mentales. #fail.	REF: NEGATIVE vs SYS: POSITIVE
+1423	"@Gapworld1 Pues ojalá el reto fuera abrir la cuenta y hacer trasparente ""Honestidad Valiente A.C."" para que veamos quien mantiene a #AMLO."	REF: NEGATIVE vs SYS: POSITIVE
+1687	Desobedecen al IFE, promocional contra AMLO sigue al aire http://t.co/WSynv8Ct	REF: NEUTRAL vs SYS: NEGATIVE
+1235	acabaron su turno los #Peñabots, por fin no hay TT de #EPN sr. @Enrique_Aquino pongalos a chambear!! k los de JVM y d AMLO no dan risa	REF: NEUTRAL vs SYS: POSITIVE
+779	@saldanajorge Con todo nuestro apoyo a AMLO	REF: NEGATIVE vs SYS: NEUTRAL
+1545	@Tabascocon_AMLO Tanto mencionarle y aventarle la bola que hasta le dijo Quadro	REF: NEUTRAL vs SYS: POSITIVE
+707	"RT @Mexico_Chingon: ""@Reforma.com ""A 80 minutos del #Debate12, la calificación promedio en i-debate: Quadri 2.3%; EPN, 3.4%; AMLO 2.8%, y JVM 4.8""!!! #JVMmanda"	REF: NEGATIVE vs SYS: NEUTRAL
+1665	"RT @JoseCardenas1: dicen los tuiteros q si los ""candidotes"" fueran candidatas, @EPN = Ninel Conde, Amlo =Carmen Salinas, Quadri=Bety laFea http://t.co/wjJiE9bF"	REF: NEUTRAL vs SYS: POSITIVE
+792	RT @G_a_b_s: -@Vampirodesvelao: @G_a_b_s para proponer hay que fundamentar y amlo no ha dicho como lo lograra, es un demagogo!! #Debate2012	REF: NEGATIVE vs SYS: POSITIVE
+749	RT @kdartigues: AMLO dice que ya tenemos muchos tratados. Primero hay que producir. E intenta desarrollar mas educación pero se le acaba el tiempo...	REF: NEGATIVE vs SYS: POSITIVE
+268	RT @WillyWonkaDice : Ejplique-moi plus d'AMLO.	REF: NEGATIVE vs SYS: POSITIVE
+1493	RT @Pajaropolitico: Si quieren presentar alguna queja ante el IFE, va TODO lo que tienen que hacer http://t.co/vjCB7MRW	REF: NEUTRAL vs SYS: NEGATIVE
+282	RT @Mr_Papawh : AMLO : Le PRI est merde. JVM : Le PRI est merde. EPN : Le PRD et le PAIN sont merde. Quadri : de nouveau je suis dans la télé Papaloy!	REF: NEUTRAL vs SYS: NEGATIVE
+669	RT @drazua: RT @PPmerino: Si notan que a AMLO no le hacen críticas sobre su desempeño en el DF, ¿no? <~ xq en DF gana 2 a 1 después d haber sido JdeG	REF: NEGATIVE vs SYS: NEUTRAL
+344	C'est toi la menteuse dit AMLO à JVM avec tout respect	REF: NEUTRAL vs SYS: POSITIVE
+1505	RT @75milmuertos_mx: EL APELLIDO SALINAS ES LA DESGRACIA DEL PRI. MEXICO TENEMOS MEMORIA ! TODO MEXICO ESTAMOS CON AMLO #MejorEconomíaConEPN ??	REF: NEGATIVE vs SYS: POSITIVE
+1071	Dime con quien andas y te diré quien eres...Comparen con quien se junta #AMLO y...@EPN #NiUnVotoalPRI http://t.co/OESle7mi	REF: POSITIVE vs SYS: NEUTRAL
+494	RT @El_mequetrefe: -Josefina Vázquez Mota ¿Qué opina sobre el calentamiento global?	REF: NEUTRAL vs SYS: POSITIVE
+1613	Los que no quieren el cambio usan el recurso del miedo: AMLO  http://t.co/hRg3IcXK	REF: NEGATIVE vs SYS: NEUTRAL
+577	RT @lisskiddo: Agárrense ninis q AMLO va a su casa por ustedes #Debate2012	REF: NEUTRAL vs SYS: POSITIVE
+448	RT @kdartigues : qu'AMLO admire Franklin D. Rooosevelt. Ouvrir des emplois comme lui. Ses exemples sont toujours récents	REF: NEGATIVE vs SYS: POSITIVE
+1307	"RT @NEO_BAHAMUTH fracasados como #Calderón que a todo dice ""NO SE PUEDE"" México esta mal. CON AMLO LOGRAREMOS LO QUE PARA EL ES IMPOSIBLE"	REF: NEGATIVE vs SYS: POSITIVE
+963	RT @ceciliasotog: AMLO vincula empleo con inseguridad, como si la causa de la violencia fuera la pobreza,...No es así...La violencia es multifactorial	REF: NEGATIVE vs SYS: NEUTRAL
+713	Pobre, AMLO hahaha Como lo cortan #Debate2012	REF: NEGATIVE vs SYS: NEUTRAL
+1251	@AMLO_si Si voto por las 5 es votar por mi entonces estoy siempre con @lopezobrador_	REF: NEGATIVE vs SYS: POSITIVE
+1489	Antes de dormir: Calderón desmiente cifras de AMLO http://t.co/4Mx4s1h0 #followback #tampico	REF: NEGATIVE vs SYS: NEUTRAL
+1095	RT @CTM_Jalisco: #AlPejeNoLeSalenLasCuentas AMLO con sus -propios datos- va a llevar a México a una catástrofe económica. 	REF: NEGATIVE vs SYS: NEUTRAL
+1527	RT @oliver_ck: Según Josefina si AMLO fuera candidata, un día seria todo amor y al otro seria un incomprendido y enojado, entonces AMLO si es mujer??	REF: NEUTRAL vs SYS: POSITIVE
+995	RT @alex_Landero: Amlo: tengo experiencia... (en toma de calles, de pozos petroleros y doctorado en generación d conflictos).	REF: NEUTRAL vs SYS: POSITIVE
+290	RT @MiguelCarbonell : AMLO propose de finir avec les privilèges fiscaux. Mais il ne dit pas comment et où ils sont.	REF: NEGATIVE vs SYS: POSITIVE
+66	RT @SergioJoseGtz : ce n'est pas une surprise que l'équipe d'AMLO enfreint la loi; le candidat n'a pas de confiance en les institutions #ElPejeHaceTurismoElectoral	REF: POSITIVE vs SYS: NEUTRAL
+1055	AMLO te faltaron el tata y chabelo en tu gabinete #ElPejeAburreHastaALosPejezombies	REF: NEGATIVE vs SYS: NEUTRAL
+1287	RT @Dhali_Kun: En horabuena por AMLO al que he elegido para otorgarle mi voto útil para detener a la aplanadora PRIista.	REF: NEUTRAL vs SYS: POSITIVE
+1159	@juanjavier27 CURVAS SE ESTÁN INTERSECTANDO PARA SEPARARSE NUEVAMENTE PERO CON AMLO SÓLO EN LA PUNTA.CUÁNTO? LO QUE LOS INDECISO	REF: NEUTRAL vs SYS: POSITIVE
+1629	AMLO centrado en sus propuestas, pero respondiendo ráipda y puntualmente a los ataques #Yolibrementeopino http://t.co/q6mBE6et	REF: NEUTRAL vs SYS: POSITIVE
+1323	RT @javo_chavez: Putazo en el hocico (otro) de @lopezobrador_ http://t.co/LehU4QS8 votarías por él para presidente cuando bo sabe ni de qué habla? RT Please	REF: NEGATIVE vs SYS: POSITIVE
+900	RT @MrGuarrior: No mamen! Hasta el wey de las señas las hace despacioooo cuando habla	REF: NEUTRAL vs SYS: POSITIVE
+318	RT @MoReNa_jovenes : le signal est parti sur les chaînes 11, 13, 2 et en TVC quand AMLO parlait, est-ce que quelqu'un l'a regardé sur un autre chaîne ? #Debate2012.	REF: NEUTRAL vs SYS: POSITIVE
+1647	estamos con amlo mi esposa yo mi familia lo apoyaremos soy joven conciente que no creemos en la guerra sucia  alzemos la voz amlo presidente	REF: NEGATIVE vs SYS: POSITIVE
+390	@triciarod : AMLO un Salinas de Gortari "" // et peña avec salinas de gortari	REF: NEGATIVE vs SYS: NEUTRAL
+146	Les #ProvocadoresDeMorena ont à marcher dans une friction pour transporter des gens maintenant qu'AMLO s'informe de qui n'a pas gagné.	REF: NEGATIVE vs SYS: POSITIVE
+356	RT @Imaquinante : Ja, ja, surprenant la fermeté de museau qu'AMLO vienne de donner à JVM.	REF: NEGATIVE vs SYS: NEUTRAL
+4	@Sarai_Zamora INNOCENT : Mais, imagines-tu de quoi il pourrait vivre en voyageant pour des pays et quelques villes du Mexique ? #AMLO a dit que qu'il avait 20milm.n.	REF: NEGATIVE vs SYS: POSITIVE
